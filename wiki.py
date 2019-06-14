@@ -7,7 +7,7 @@ class Character(object):
     def __init__(self, name, line, gender, house):
         self.name = name
         self.lines = [line]
-        self.wordCounte = 0
+        self.wordCount = 0
         self.gender = gender
         self.house = house
 
