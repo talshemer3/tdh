@@ -1,10 +1,9 @@
+import json
+import os
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.common.exceptions import TimeoutException
-
-import json
-import re
 
 
 class Line(object):
@@ -22,18 +21,18 @@ class Character(object):
         self.wordCounte = 0
 
 
-Characters = []
+characters = []
 
 
 def add_character(name, season, ep, text):
     line = Line(season, ep, text)
-    newCharacter = Character(name, line)
-    Characters.append(newCharacter)
+    new_character = Character(name, line)
+    characters.append(new_character)
 
 
 def exist_character(name):
-    for c in Characters:
-        if (c.name == name):
+    for c in characters:
+        if c.name == name:
             return c
     return False
 
@@ -52,7 +51,7 @@ def count_word_per_character(character):
 
 def write_to_file():
     with open('data.json', 'w') as outfile:
-        json.dump(Characters, outfile)
+        json.dump(characters, outfile)
 
 
 def open_script():
@@ -73,12 +72,22 @@ def open_script():
         for i, href in enumerate(hrefs):
             driver.get(href)
             content = driver.find_element_by_class_name('lyrics')
-            text.append({"season": season, "episode": 1+i, "text": content.text})
+            text.append({"season": season, "episode": 1 + i, "text": content.text})
     driver.close()
     for ep in text:
         text_file = open(f"season{ep['season']}-episode{ep['episode']}.txt", "w", encoding="utf-8")
         text_file.write(ep['text'])
         text_file.close()
+
+
+def parser_helper():
+    for file in os.listdir("episodes"):
+        try:
+            with open(f"episodes/{file}", 'r') as episode:
+                parser(episode.read(), file[6], file[:-4][16:])
+        except Exception:
+            with open(f"episodes/{file}", 'r', encoding='utf8') as episode:
+                parser(episode.read(), file[6], file[:-4][16:])
 
 
 def parser(content, season, ep):
@@ -95,7 +104,7 @@ def parser(content, season, ep):
 
 
 def print_for_check():
-    for c in Characters:
+    for c in characters:
         print('Name: ' + c.name)
         words = count_word_per_character(c)
         print('words: ' + str(words))
@@ -107,4 +116,4 @@ def print_for_check():
         #     i = i + 1
 
 
-open_script()
+parser_helper()

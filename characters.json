@@ -1,0 +1,1257 @@
+[
+  {
+    "name": "Ned Stark",
+    "aliases": [
+      "Eddard \"Ned\" Stark"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Stark"
+  },
+  {
+    "name": "Robert Baratheon",
+    "aliases": [
+      "Demon of the Trident",
+      "The Whoremonger King",
+      "The Usurper"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Baratheon"
+  },
+  {
+    "name": "Jaime Lannister",
+    "aliases": [
+      "The Young Lion",
+      "The Kingslayer"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Lannister"
+  },
+  {
+    "name": "Catelyn Stark",
+    "aliases": [
+      "The Silent Sister",
+      "CatLady Stoneheart",
+      "Mother MercilessThe Hangwoman"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Stark"
+  },
+  {
+    "name": "Cersei Lannister",
+    "aliases": [
+      "Light of the West"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Lannister"
+  },
+  {
+    "name": "Daenerys Targaryen",
+    "aliases": [
+      "Mhysa",
+      "Daenerys Stormborn",
+      "Khaleesi",
+      "Dany"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Targaryen"
+  },
+  {
+    "name": "Jorah Mormont",
+    "aliases": [
+      "Jorah the Andal"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Mormont"
+  },
+  {
+    "name": "Viserys Targaryen",
+    "aliases": [
+      "The Beggar King"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Targaryen"
+  },
+  {
+    "name": "Jon Snow",
+    "aliases": [
+      "Jon Snow"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Sansa Stark",
+    "aliases": [
+      "Little Bird",
+      "Alayne Stone",
+      "Jonquil"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Stark"
+  },
+  {
+    "name": "Arya Stark",
+    "aliases": [
+      "Arry",
+      "Weasel",
+      "Mercy",
+      "Squab",
+      "Lanna of the Canals (television series only)",
+      "Arya Horseface",
+      "Cat of the Canals",
+      "Nan",
+      "Salty",
+      "Blind Beth",
+      "Arya Underfoot"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Stark"
+  },
+  {
+    "name": "Robb Stark",
+    "aliases": [
+      "The Young Wolf"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Stark"
+  },
+  {
+    "name": "Theon Greyjoy",
+    "aliases": [
+      "Reek"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Greyjoy"
+  },
+  {
+    "name": "Bran Stark",
+    "aliases": [
+      "Brandon \"Bran\" Stark"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Stark"
+  },
+  {
+    "name": "Joffrey Baratheon",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Baratheon"
+  },
+  {
+    "name": "Sandor Clegane",
+    "aliases": [
+      "The Hound",
+      "Dog"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Clegane"
+  },
+  {
+    "name": "Tyrion Lannister",
+    "aliases": [
+      "The Halfman",
+      "Yollo",
+      "Hugor Hill",
+      "The Imp"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Lannister"
+  },
+  {
+    "name": "Petyr Baelish",
+    "aliases": [
+      "Petyr \"Littlefinger\" Baelish",
+      "Littlefinger"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Davos Seaworth",
+    "aliases": [
+      "Davos Shorthand",
+      "The Onion Knight"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Seaworth"
+  },
+  {
+    "name": "Samwell Tarly",
+    "aliases": [
+      "Sam",
+      "Sam the Slayer"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Tarly"
+  },
+  {
+    "name": "Stannis Baratheon",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Baratheon"
+  },
+  {
+    "name": "Melisandre",
+    "aliases": [
+      "The Red Woman",
+      "The Red Priestess"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Jeor Mormont",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Mormont"
+  },
+  {
+    "name": "Bronn",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Varys",
+    "aliases": [
+      "The Spider",
+      "The Eunuch",
+      "Lord Varys",
+      "Varys of Lys",
+      "Rugen"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Shae",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Margaery Tyrell",
+    "aliases": [
+      "Maid Margaery",
+      "The Little Queen",
+      "The Little Rose"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Tyrell"
+  },
+  {
+    "name": "Tywin Lannister",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Lannister"
+  },
+  {
+    "name": "Talisa Maegyr",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Ygritte",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Gendry",
+    "aliases": [
+      "Ser Gendry of the hollow hill",
+      "The Bull"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Baratheon"
+  },
+  {
+    "name": "Tormund Giantsbane",
+    "aliases": [
+      "Speaker to Gods",
+      "Tormund Horn-Blower",
+      "Breaker of Ice",
+      "Tormund Tall-Talker",
+      "Mead-King of Ruddy Hall",
+      "Tormund Thunderfist",
+      "Husband to Bears",
+      "Father of Hosts",
+      "Tormund Giantsbane"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Brienne of Tarth",
+    "aliases": [
+      "Brienne the Beauty",
+      "Brienne the Blue",
+      "The Maid of Tarth"
+    ],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Tarth"
+  },
+  {
+    "name": "Ramsay Bolton",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Bolton"
+  },
+  {
+    "name": "Gilly",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Daario Naharis",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Missandei",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Ellaria Sand",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Tommen Baratheon",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Baratheon"
+  },
+  {
+    "name": "Jaqen H'ghar",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Roose Bolton",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Bolton"
+  },
+  {
+    "name": "The High Sparrow",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Grey Worm",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Robin Arryn",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Arryn"
+  },
+  {
+    "name": "Yohn Royce",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Anya Waynwood",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Lysa Arryn",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Arryn"
+  },
+  {
+    "name": "Myrcella Baratheon",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Baratheon"
+  },
+  {
+    "name": "Selyse Florent",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Shireen Baratheon",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Baratheon"
+  },
+  {
+    "name": "Renly Baratheon",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Baratheon"
+  },
+  {
+    "name": "Salladhor Saan",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Matthos Seaworth",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": null,
+    "house": null
+  },
+  {
+    "name": "Maester Cressen",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "\"Fat\" Walda Bolton",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Bolton"
+  },
+  {
+    "name": "Harald Karstark",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Jon Umber",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Myranda",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Locke",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Walder Frey",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Frey"
+  },
+  {
+    "name": "Lothar Frey",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Frey"
+  },
+  {
+    "name": "Black Walder Rivers",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Yara Greyjoy",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Greyjoy"
+  },
+  {
+    "name": "Euron Greyjoy",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Greyjoy"
+  },
+  {
+    "name": "Aeron Greyjoy",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": null,
+    "house": "Greyjoy"
+  },
+  {
+    "name": "Balon Greyjoy",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Greyjoy"
+  },
+  {
+    "name": "Dagmer Cleftjaw",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Black Lorren",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Gregor Clegane",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Kevan Lannister",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Lannister"
+  },
+  {
+    "name": "Lancel Lannister",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Lannister"
+  },
+  {
+    "name": "Polliver",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Alton Lannister",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Lannister"
+  },
+  {
+    "name": "Amory Lorch",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Lord Leo Lefford",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Tyene Sand",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Nymeria Sand",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Obara Sand",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Trystane Martell",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Martell"
+  },
+  {
+    "name": "Doran Martell",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Martell"
+  },
+  {
+    "name": "Areo Hotah",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Oberyn Martell",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Martell"
+  },
+  {
+    "name": "Robett Glover",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Meera Reed",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Lyanna Mormont",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Mormont"
+  },
+  {
+    "name": "Maester Wolkan",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Lyanna Stark",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Stark"
+  },
+  {
+    "name": "Rickon Stark",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Stark"
+  },
+  {
+    "name": "Hodor",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Osha",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Jojen Reed",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Rickard Karstark",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": " Maester Luwin",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Rodrik Cassel",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Jory Cassel",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": null,
+    "house": null
+  },
+  {
+    "name": "Septa Mordane",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Old Nan",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Jon Umber",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Barristan Selmy",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Hizdahr Zo Loraq",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Mossador",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Kovarro",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": null
+  },
+  {
+    "name": "Doreah",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Irri",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": null
+  },
+  {
+    "name": "Rakharo",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": null,
+    "house": null
+  },
+  {
+    "name": "Rhaegar Targaryen",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Targaryen"
+  },
+  {
+    "name": "Edmure Tully",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Tully"
+  },
+  {
+    "name": "Brynden Tully",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Tully"
+  },
+  {
+    "name": "Roslin Frey",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Frey"
+  },
+  {
+    "name": "Olenna Tyrell",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Tyrell"
+  },
+  {
+    "name": "Mace Tyrell",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Tyrell"
+  },
+  {
+    "name": "Loras Tyrell",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Tyrell"
+  },
+  {
+    "name": "Randyll Tarly",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Tarly"
+  },
+  {
+    "name": "Melessa Tarly",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Tarly"
+  },
+  {
+    "name": "Talla Tarly",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Female",
+    "house": "Tarly"
+  },
+  {
+    "name": "Dickon Tarly",
+    "aliases": [],
+    "lines": [
+      " "
+    ],
+    "wordCount": 0,
+    "gender": "Male",
+    "house": "Tarly"
+  }
+]
