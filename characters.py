@@ -2,20 +2,7 @@ import json
 import re
 import requests
 import wikipediaapi
-
-
-class Character(object):
-    def __init__(self, name, aliases, line, gender, house):
-        self.name = name
-        self.aliases = aliases
-        self.lines = [line]
-        self.wordCount = 0
-        self.gender = gender
-        self.house = house
-
-    def __str__(self):
-        return f'Name: {self.name}, Aliases: {self.aliases}, Gender: {self.gender}, House: {self.house}'
-
+from objects import Character
 
 houses = ['Tarly', 'Martell', 'Frey', 'Bolton', 'Targaryen', 'Stark', 'Lannister', 'Greyjoy', 'Arryn', 'Baratheon',
           'Tully', 'Tyrell', 'Mormont']
@@ -79,7 +66,7 @@ def parse_supporting_characters():
                 text = character.title().lower()
                 # extract gender:
                 gender = extract_gender(text)
-                characters.append(Character(name, [], ' ', gender, ch_house))
+                characters.append(Character(name, [], gender, ch_house))
 
 
 def parse_main_characters():
@@ -125,11 +112,11 @@ def parse_main_characters():
                 for relative in character_dbpedia.get('http://dbpedia.org/ontology/relative', []):
                     if "House" in relative['value']:
                         ch_house = relative['value'].split('_')[-1].replace('House ', '')
-        characters.append(Character(name, aliases, ' ', gender, ch_house))
+        characters.append(Character(name, aliases, gender, ch_house))
 
 
 def export():
-    with open('characters.json', 'w') as output:
+    with open('character_list_with_aliases.json', 'w') as output:
         json.dump(characters, output, default=lambda c: c.__dict__)
 
 

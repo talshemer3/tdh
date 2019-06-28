@@ -1,59 +1,18 @@
 import json
 import os
+import csv
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
+from objects import Line
+from objects import Character
 
-class Line(object):
-    def __init__(self, season, ep, text):
-        self.season = season
-        self.ep = ep
-        self.text = text
-        self.wordCounter = len(text.split())
+characters = None
 
 
-class Character(object):
-    def __init__(self, name, line):
-        self.name = name
-        self.lines = [line]
-        self.wordCounte = 0
-
-
-characters = []
-
-
-def add_character(name, season, ep, text):
-    line = Line(season, ep, text)
-    new_character = Character(name, line)
-    characters.append(new_character)
-
-
-def exist_character(name):
-    for c in characters:
-        if c.name == name:
-            return c
-    return False
-
-
-def add_text(character, season, ep, text):
-    line = Line(season, ep, text)
-    character.lines.append(line)
-
-
-def count_word_per_character(character):
-    counter = 0
-    for l in character.lines:
-        counter = counter + l.wordCounter
-    return counter
-
-
-def write_to_file():
-    with open('data.json', 'w') as outfile:
-        json.dump(characters, outfile)
-
-
+# extract transcripts to text files
 def open_script():
     text = []
     options = Options()
@@ -80,40 +39,129 @@ def open_script():
         text_file.close()
 
 
+# itterating the text files (transcripts) with supporting season 3 ep 9
 def parser_helper():
     for file in os.listdir("episodes"):
         try:
             with open(f"episodes/{file}", 'r') as episode:
-                parser(episode.read(), file[6], file[:-4][16:])
+                parser(episode.read(), int(file[6]), int(file[:-4][15:]))
         except Exception:
+            # print(file, Exception)
             with open(f"episodes/{file}", 'r', encoding='utf8') as episode:
-                parser(episode.read(), file[6], file[:-4][16:])
+                parser(episode.read(), int(file[6]), int(file[:-4][15:]))
 
 
+not_important = []
+
+
+# parse transcript of 1 episode
 def parser(content, season, ep):
-    lines = content.text.splitlines()
+    lines = content.splitlines()
     for l in lines:
-        words = l.split(":")
-        if len(words) >= 2:
-            if True:
-                c = exist_character(words[0])
-                if c:
-                    add_text(c, season, ep, words[1])
-                else:
-                    add_character(words[0], season, ep, words[1])
+        parts = l.split(":")
+        if len(parts) >= 2:
+            # line of character
+            character = get_character(parts[0])
+            if character:
+                add_line(character, season, ep, parts[1])
+            else:
+                if parts[0] not in not_important:
+                    not_important.append(parts[0])
 
 
-def print_for_check():
+def create_characters_arr():
+    global characters
+    file = open('character_list_with_aliases.json', 'r')
+    characters = json.load(file)
+    characters = [Character(character['name'], character['aliases'], character['gender'], character['house']) for
+                  character in characters]
+
+
+def get_character(name):
+    global characters
+    name = name.split('(')[0].lower().strip()
     for c in characters:
-        print('Name: ' + c.name)
-        words = count_word_per_character(c)
-        print('words: ' + str(words))
-        # i = 1
-        # for l in c.lines:
-        #     # print('season: '+ l.season)
-        #     # print('episode: ' + l.ep)
-        #     print(str(i) + ' ' + l.text)
-        #     i = i + 1
+        if name in c.name.lower():
+            return c
+        for alias in c.aliases:
+            if name in alias.lower():
+                return c
 
 
+def add_line(character, season, ep, text):
+    line = Line(season, ep, text)
+    character.lines[str(season)].append(line)
+
+
+def count_words_per_season():
+    global characters
+    for character in characters:
+        for season in range(1, 9):
+            character.season_counter[str(season)] = sum([l.wordCounter for l in character.lines[str(season)]])
+        character.total_words = sum(character.season_counter.values())
+
+
+def create_csv():
+    global characters
+    first_row = ['Name', 'Gender', 'House', 'Season1', 'Season2', 'Season3', 'Season4', 'Season5', 'Season6', 'Season7',
+                 'Season8', 'Total']
+    with open('csvs/main.csv', 'w') as csvFile:
+        writer = csv.writer(csvFile, lineterminator='\n')
+        writer.writerow(first_row)
+        for character in characters:
+            row = [character.name, character.gender, character.house, *character.season_counter.values(),
+                   character.total_words]
+            writer.writerow(row)
+
+
+def create_csv_main_role_general():
+    global characters
+    first_row = ['Name', 'Gender', 'House', 'Words']
+    with open('csvs/main_role_general.csv', 'w') as csvFile:
+        writer = csv.writer(csvFile, lineterminator='\n')
+        writer.writerow(first_row)
+        for c in characters:
+            row = [c.name, c.gender, c.house, c.total_words]
+            writer.writerow(row)
+
+
+def create_csv_per_season():
+    global characters
+    first_row = ['Name', 'Gender', 'Words']
+    for se in range(1, 9):
+        with open(f'csvs/seasons/words_se_{str(se)}.csv', 'w') as csvFile:
+            writer = csv.writer(csvFile, lineterminator='\n')
+            writer.writerow(first_row)
+            for c in characters:
+                row = [c.name, c.gender, c.season_counter[str(se)]]
+                writer.writerow(row)
+
+
+def create_csv_per_character():
+    global characters
+    first_row = ['Season', 'Words']
+    for c in characters:
+        file_name = c.name + '.csv'
+        with open(f'csvs/characters/{file_name}', 'w') as csvFile:
+            writer = csv.writer(csvFile, lineterminator='\n')
+            writer.writerow(first_row)
+            for se in range(1, 9):
+                row = [se, c.season_counter[str(se)]]
+                writer.writerow(row)
+
+
+def export():
+    with open('character_list_results.json', 'w') as output:
+        json.dump(characters, output, default=lambda c: c.__dict__)
+
+
+create_characters_arr()
 parser_helper()
+print(not_important)
+count_words_per_season()
+export()
+create_csv()
+create_csv_main_role_general()
+create_csv_per_season()
+create_csv_per_character()
+print("done")
