@@ -1,36 +1,36 @@
 Name,Gender,Words
-Ned Stark,Male,3602
-Robert Baratheon,Male,2574
-Jaime Lannister,Male,1409
-Catelyn Stark,Female,1878
-Cersei Lannister,Female,1558
-Daenerys Targaryen,Female,1421
-Jorah Mormont,Male,1010
-Viserys Targaryen,Male,1104
-Jon Snow,Male,1352
-Sansa Stark,Female,796
-Arya Stark,Female,882
-Robb Stark,Male,975
-Theon Greyjoy,Male,745
-Bran Stark,Male,615
-Joffrey Baratheon,Male,955
-Sandor Clegane,Male,125
-Tyrion Lannister,Male,3822
-Petyr Baelish,Male,1845
+Ned Stark,Male,3262
+Robert Baratheon,Male,2450
+Jaime Lannister,Male,1324
+Catelyn Stark,Female,1722
+Cersei Lannister,Female,1438
+Daenerys Targaryen,Female,1275
+Jorah Mormont,Male,915
+Viserys Targaryen,Male,1035
+Jon Snow,Male,1204
+Sansa Stark,Female,694
+Arya Stark,Female,780
+Robb Stark,Male,875
+Theon Greyjoy,Male,678
+Bran Stark,Male,537
+Joffrey Baratheon,Male,895
+Sandor Clegane,Male,112
+Tyrion Lannister,Male,3600
+Petyr Baelish,Male,1731
 Davos Seaworth,Male,0
-Samwell Tarly,Male,683
+Samwell Tarly,Male,625
 Stannis Baratheon,Male,0
 Melisandre,Female,0
-Jeor Mormont,Male,722
-Bronn,Male,302
-Varys,Male,1358
-Shae,Female,271
-Margaery Tyrell,Female,358
-Tywin Lannister,Male,465
+Jeor Mormont,Male,688
+Bronn,Male,264
+Varys,Male,1278
+Shae,Female,236
+Margaery Tyrell,Female,319
+Tywin Lannister,Male,429
 Talisa Maegyr,Female,0
 Ygritte,Female,0
-Gendry,Male,156
-Tormund Giantsbane,Male,54
+Gendry,Male,147
+Tormund Giantsbane,Male,51
 Brienne of Tarth,Female,0
 Ramsay Bolton,Male,0
 Gilly,Female,0
@@ -42,14 +42,14 @@ Jaqen H'ghar,Male,0
 Roose Bolton,Male,0
 The High Sparrow,Male,0
 Grey Worm,Male,0
-Robin Arryn,Male,65
-Yohn Royce,Male,76
+Robin Arryn,Male,56
+Yohn Royce,Male,71
 Anya Waynwood,Female,0
-Lysa Arryn,Female,448
-Myrcella Baratheon,Female,6
+Lysa Arryn,Female,417
+Myrcella Baratheon,Female,5
 Selyse Florent,Female,0
 Shireen Baratheon,Female,0
-Renly Baratheon,Male,625
+Renly Baratheon,Male,581
 Salladhor Saan,Male,0
 Matthos Seaworth,,0
 Maester Cressen,Female,0
@@ -58,7 +58,7 @@ Harald Karstark,Male,0
 Jon Umber,Male,0
 Myranda,Female,0
 Locke,Male,0
-Walder Frey,Female,273
+Walder Frey,Female,260
 Lothar Frey,Male,0
 Black Walder Rivers,Female,0
 Yara Greyjoy,Female,0
@@ -68,12 +68,12 @@ Balon Greyjoy,Female,0
 Dagmer Cleftjaw,Male,0
 Black Lorren,Male,0
 Gregor Clegane,Female,0
-Kevan Lannister,Male,108
-Lancel Lannister,Male,66
+Kevan Lannister,Male,100
+Lancel Lannister,Male,59
 Polliver,Male,0
 Alton Lannister,Male,0
 Amory Lorch,Female,0
-Lord Leo Lefford,Male,23
+Lord Leo Lefford,Male,21
 Tyene Sand,Female,0
 Nymeria Sand,Female,0
 Obara Sand,Female,0
@@ -86,31 +86,31 @@ Meera Reed,Female,0
 Lyanna Mormont,Female,0
 Maester Wolkan,Male,0
 Lyanna Stark,Female,0
-Rickon Stark,Male,41
-Hodor,Male,2
-Osha,Female,291
+Rickon Stark,Male,34
+Hodor,Male,1
+Osha,Female,261
 Jojen Reed,Male,0
-Rickard Karstark,Male,31
- Maester Luwin,Male,469
-Rodrik Cassel,Male,72
-Jory Cassel,,268
-Septa Mordane,Female,397
-Old Nan,Female,209
+Rickard Karstark,Male,30
+ Maester Luwin,Male,426
+Rodrik Cassel,Male,62
+Jory Cassel,,237
+Septa Mordane,Female,352
+Old Nan,Female,204
 Jon Umber,Male,0
-Barristan Selmy,Female,241
+Barristan Selmy,Female,217
 Hizdahr Zo Loraq,Female,0
 Mossador,Male,0
 Kovarro,Male,0
-Doreah,Female,470
-Irri,Female,138
-Rakharo,,199
+Doreah,Female,443
+Irri,Female,121
+Rakharo,,180
 Rhaegar Targaryen,Male,0
 Edmure Tully,Male,0
 Brynden Tully,Male,0
 Roslin Frey,Female,0
 Olenna Tyrell,Female,0
 Mace Tyrell,Female,0
-Loras Tyrell,Female,311
+Loras Tyrell,Female,288
 Randyll Tarly,Male,0
 Melessa Tarly,Female,0
 Talla Tarly,Female,0

@@ -443,7 +443,7 @@ BRAN: Help them!
 
 JOJEN: Bran! Save yourself, now!
 
-[Meera defeats a skeleton warrior, only to see another repeatedly stabbing Jojen. Just as two skeletons close in on the warging Bran, theyíre destroyed by two fireballs, apparently controlled by a young girl.]
+[Meera defeats a skeleton warrior, only to see another repeatedly stabbing Jojen. Just as two skeletons close in on the warging Bran, they‚Äôre destroyed by two fireballs, apparently controlled by a young girl.]
 
 GIRL: Come with me, Brandon Stark!
 
@@ -462,25 +462,25 @@ GIRL: The First Men called us The Children, but we were born long before them. C
 
 [They enter a room filled with tree roots. An old man is seated in the center. Bran approaches him.]
 
-BRAN: Youíre the three-eyed raven.
+BRAN: You‚Äôre the three-eyed raven.
 
 OLD MAN: I have been many things. Now, I am what you see.
 
-MEERA: My brother, he led us to you, and now heÖ
+MEERA: My brother, he led us to you, and now he‚Ä¶
 
 OLD MAN: He knew what would happen. From the moment he left, he knew, and he went anyway.
 
 MEERA: How do you know?
 
-OLD MAN: Iíve been watching you. All of you, all of your lives, with a thousand eyes and one. Now youíve come to me at last, Brandon Stark, though the hour is late.
+OLD MAN: I‚Äôve been watching you. All of you, all of your lives, with a thousand eyes and one. Now you‚Äôve come to me at last, Brandon Stark, though the hour is late.
 
-BRAN: I didnít want anyone to die for me.
+BRAN: I didn‚Äôt want anyone to die for me.
 
 OLD MAN: He died so that you could find what you have lost.
 
-BRAN: Youíre going to help me walk again?
+BRAN: You‚Äôre going to help me walk again?
 
-OLD MAN: Youíll never walk again. But you will fly.
+OLD MAN: You‚Äôll never walk again. But you will fly.
 
 CUT TO: THE RIVERLANDS
 
@@ -498,11 +498,11 @@ BRIENNE: If you did it like I taught you then the horses would be here.
 
 PODRICK: Thieves, maybe?
 
-BRIENNE: Itís at least thirty miles to the Eyrie from here. Youíre carrying the saddle bags.
+BRIENNE: It‚Äôs at least thirty miles to the Eyrie from here. You‚Äôre carrying the saddle bags.
 
 [Brienne sees Arya Stark practising her river-dancing.]
 
-ARYA: People coming. You can shit later, thereís people coming!
+ARYA: People coming. You can shit later, there‚Äôs people coming!
 
 BRIENNE: Morning!
 
@@ -524,9 +524,9 @@ BRIENNE: I do.
 
 ARYA: Does it have a name?
 
-BRIENNE: ìOathkeeper.î
+BRIENNE: ‚ÄúOathkeeper.‚Äù
 
-ARYA: Mineís ìNeedle.î
+ARYA: Mine‚Äôs ‚ÄúNeedle.‚Äù
 
 BRIENNE: Good name.
 
@@ -535,73 +535,73 @@ BRIENNE: My father.
 
 ARYA: Mine never wanted to. Said fighting was for boys.
 
-BRIENNE: Mine said the same. But I kept fighting the boys anyway. Kept losing. Finally my father said, ìIf youíre going to do it, you might as well do it right.î
+BRIENNE: Mine said the same. But I kept fighting the boys anyway. Kept losing. Finally my father said, ‚ÄúIf you‚Äôre going to do it, you might as well do it right.‚Äù
 
-[Sandor ìThe Houndî Clegane emerges.]
+[Sandor ‚ÄúThe Hound‚Äù Clegane emerges.]
 
-BRIENNE: Seven blessings. Iím Brienne of Tarth, this is Podrick Payne.
+BRIENNE: Seven blessings. I‚Äôm Brienne of Tarth, this is Podrick Payne.
 
 HOUND: You want something?
 
-PODRICK: Thatís Sandor Clegane- the Hound.
+PODRICK: That‚Äôs Sandor Clegane- the Hound.
 
-BRIENNE: Youíre Arya Stark.
+BRIENNE: You‚Äôre Arya Stark.
 
 HOUND: I asked if you wanted something.
 
 BRIENNE: I swore to your mother I would bring you home to her.
 
-ARYA: My motherís dead.
+ARYA: My mother‚Äôs dead.
 
-BRIENNE: I know. I wish I couldíve been there to protect her.
+BRIENNE: I know. I wish I could‚Äôve been there to protect her.
 
-ARYA: Youíre not a northerner.
+ARYA: You‚Äôre not a northerner.
 
 BRIENNE: I know, but I swore a sacred vow to protect her.
 
-ARYA: Why didnít you?
+ARYA: Why didn‚Äôt you?
 
-BRIENNE: She commanded me to bring Jaime Lannister back to Kingís Landing.
+BRIENNE: She commanded me to bring Jaime Lannister back to King‚Äôs Landing.
 
-HOUND: Youíre paid by the Lannisters. Youíre here for the bounty on me.
+HOUND: You‚Äôre paid by the Lannisters. You‚Äôre here for the bounty on me.
 
-BRIENNE: Iím not paid by the Lannisters.
+BRIENNE: I‚Äôm not paid by the Lannisters.
 
-HOUND: No? Fancy sword youíve got there. Whereíd you get it? Iíve been looking at Lannister gold all my life. Go on, Brienne of fucking Tarth, tell me thatís not Lannister gold.
+HOUND: No? Fancy sword you‚Äôve got there. Where‚Äôd you get it? I‚Äôve been looking at Lannister gold all my life. Go on, Brienne of fucking Tarth, tell me that‚Äôs not Lannister gold.
 
 BRIENNE: Jaime Lannister gave me this sword.
 
-ARYA: The Bloody Gateís ten miles.
+ARYA: The Bloody Gate‚Äôs ten miles.
 
 BRIENNE: I swore to your mother by the Old Gods and the New -
 
-ARYA: I donít care what you swore!
+ARYA: I don‚Äôt care what you swore!
 
 BRIENNE: Arya!
 
-HOUND: You heard the girl! Sheís not coming with you.
+HOUND: You heard the girl! She‚Äôs not coming with you.
 
 BRIENNE: She is.
 
 [Brienne and The Hound both draw their swords.]
 
-HOUND: Youíre not a good listener. Valyrian steel-- Iíve always wanted some Valyrian steel.
+HOUND: You‚Äôre not a good listener. Valyrian steel-- I‚Äôve always wanted some Valyrian steel.
 
-BRIENNE: Come with me Arya. Iíll take you to safety.
+BRIENNE: Come with me Arya. I‚Äôll take you to safety.
 
-HOUND: Safety?! Where the fuckís that? Her aunt in the Eyrieís dead. Her motherís dead, her fatherís dead, her brotherís dead. Winterfellís a pile of rubble. Thereís no safety, you dumb bitch. If you donít know that by now, youíre the wrong one to watch over her.
+HOUND: Safety?! Where the fuck‚Äôs that? Her aunt in the Eyrie‚Äôs dead. Her mother‚Äôs dead, her father‚Äôs dead, her brother‚Äôs dead. Winterfell‚Äôs a pile of rubble. There‚Äôs no safety, you dumb bitch. If you don‚Äôt know that by now, you‚Äôre the wrong one to watch over her.
 
-BRIENNE: And thatís what youíre doing? Watching over her?
+BRIENNE: And that‚Äôs what you‚Äôre doing? Watching over her?
 
-HOUND: Aye, thatís what Iím doing.
+HOUND: Aye, that‚Äôs what I‚Äôm doing.
 
 [They begin a swordfight. The Hound seems to have the upper hand but Brienne defends well and floors him.]
 
 BRIENNE: I have no wish to kill you Ser.
 
-[The Hound grabs Brienneís blade with his palms, shoves it to one side and punches her.]
+[The Hound grabs Brienne‚Äôs blade with his palms, shoves it to one side and punches her.]
 
-HOUND: Iím not a knight.
+HOUND: I‚Äôm not a knight.
 
 [They fight bare-handed, Brienne bites off The Hound's ear, then The Hound draws a knife, and Brienne grabs a rock. She pushes The Hound down a steep cliff.]
 
@@ -609,9 +609,9 @@ BRIENNE: Arya! Arya! ARYA! Where is she?
 
 PODRICK: She was just here...
 
-BRIENNE: Why werenít you watching her?
+BRIENNE: Why weren‚Äôt you watching her?
 
-PODRICK: I was watching you I thought you migth need some helpÖ
+PODRICK: I was watching you I thought you migth need some help‚Ä¶
 
 BRIENNE: Which way Pod? Which way did she go?
 
@@ -621,37 +621,37 @@ BRIENNE: Arya!
 
 [The camera moves to show us Arya hiding just above Brienne. She walks down to The Hound.]
 
-HOUND: Youíre still here? [Coughs] Big bitch saved you.
+HOUND: You‚Äôre still here? [Coughs] Big bitch saved you.
 
-ARYA: I donít need saving.
+ARYA: I don‚Äôt need saving.
 
-HOUND: No, not you. Youíre a real killer. With your water dancing, and your needle.
+HOUND: No, not you. You‚Äôre a real killer. With your water dancing, and your needle.
 
-ARYA: Youíre gonna die?
+ARYA: You‚Äôre gonna die?
 
-HOUND: Unless thereís a Maester hiding behind that rock, aye, Iím done. Iíd skin you alive for wine. [Arya offers water.] Fuck water! Killed by a woman. (Chuckles) I bet you liked that. Go on, go after her. Sheíll help you. Going out alone, you wonít last a day out there.
+HOUND: Unless there‚Äôs a Maester hiding behind that rock, aye, I‚Äôm done. I‚Äôd skin you alive for wine. [Arya offers water.] Fuck water! Killed by a woman. (Chuckles) I bet you liked that. Go on, go after her. She‚Äôll help you. Going out alone, you won‚Äôt last a day out there.
 
-ARYA: Iíll last longer than you.
+ARYA: I‚Äôll last longer than you.
 
-HOUND: You remember where the heart is? Fuck it. Iím ready. Go on, girl. Another name off your list. You kept promising me. I cut down your butcherís boy, the ginger. He was begging for mercy. Please sir, please donít kill me, please, please. Bled all over my horse. Saddle stunk of butcherís boy for weeks. And your sister, your pretty sister. I shouldíve taken her. That night the Blackwater burned, I shouldíve fucked her bloody. At least Iíd have one happy memory! Do I have to beg you? Do it. Do it.
+HOUND: You remember where the heart is? Fuck it. I‚Äôm ready. Go on, girl. Another name off your list. You kept promising me. I cut down your butcher‚Äôs boy, the ginger. He was begging for mercy. Please sir, please don‚Äôt kill me, please, please. Bled all over my horse. Saddle stunk of butcher‚Äôs boy for weeks. And your sister, your pretty sister. I should‚Äôve taken her. That night the Blackwater burned, I should‚Äôve fucked her bloody. At least I‚Äôd have one happy memory! Do I have to beg you? Do it. Do it.
 
-[Arya stands up, takes The Houndís coin purse, and walks away.]
+[Arya stands up, takes The Hound‚Äôs coin purse, and walks away.]
 
 HOUND: Kill me. Kill me! Kill me! Kill me!
 
 CUT TO: KING'S LANDING
 
-[We enter Tyrionís cell. The door opens.]
+[We enter Tyrion‚Äôs cell. The door opens.]
 
 TYRION: Oh, get on with it you son of a whore.
 
 JAIME: Is that any way to speak about our mother?
 
-TYRION: Whatíre you doing?
+TYRION: What‚Äôre you doing?
 
-JAIME: What do you think Iím doing? The galleyís waiting in the bay bound for the Free Cities.
+JAIME: What do you think I‚Äôm doing? The galley‚Äôs waiting in the bay bound for the Free Cities.
 
-TYRION: Whoís helping you?
+TYRION: Who‚Äôs helping you?
 
 JAIME: Varys.
 
@@ -661,7 +661,7 @@ JAIME: You have more friends than you thought.
 
 [They reach the end of the underground tunnel.]
 
-JAIME: Thereís a locked door at the top of the stairs. Knock on it twice, and then twice again. Varys will open.
+JAIME: There‚Äôs a locked door at the top of the stairs. Knock on it twice, and then twice again. Varys will open.
 
 TYRION: I suppose this is goodbye, then.
 
@@ -675,19 +675,19 @@ JAIME: Quickly now.
 
 [Tyrion takes a torch and uses a trap door to enter a room. There is a woman sleeping on a double bed, and we see the booch of the Hand of the King.]
 
-WOMAN: TywinÖ my lion...
+WOMAN: Tywin‚Ä¶ my lion...
 
 [We see that the woman is Shae. She grabs a knife, and she and Tyrion struggle. Tyrion eventually strangles her with the bedclothes, weeping.]
 
-TYRION: Iím sorry. Iím sorry.
+TYRION: I‚Äôm sorry. I‚Äôm sorry.
 
 [Tyrion takes a crossbow from the wall and walks in on Tywin on the privy.]
 
-TYWIN: Tyrion! Put down the crossbow. Who released you? Ah, your brother ,I expect. He always had a soft spot for you. Come, weíll go and talk in my chambers. Is this how you want to speak to me? Shaming your father has always given you pleasureÖ
+TYWIN: Tyrion! Put down the crossbow. Who released you? Ah, your brother ,I expect. He always had a soft spot for you. Come, we‚Äôll go and talk in my chambers. Is this how you want to speak to me? Shaming your father has always given you pleasure‚Ä¶
 
-TYRION: All my life, youíve wanted me dead.
+TYRION: All my life, you‚Äôve wanted me dead.
 
-TYWIN: Yes. But you refused to die. I respect that, even admire it. You fight for whatís yours. Iíd never let them execute you; is that what you fear? Iíd never let Illyn Payne take your head. Youíre a Lannister. Youíre my son.
+TYWIN: Yes. But you refused to die. I respect that, even admire it. You fight for what‚Äôs yours. I‚Äôd never let them execute you; is that what you fear? I‚Äôd never let Illyn Payne take your head. You‚Äôre a Lannister. You‚Äôre my son.
 
 TYRION: I loved her.
 
@@ -699,33 +699,33 @@ TYWIN: Bah, Tyrion. Put down that crossbow.
 
 TYRION: I murdered her. With my own hands.
 
-TYWIN: It doesnít matter.
+TYWIN: It doesn‚Äôt matter.
 
-TYRION: It doesnít matter?
+TYRION: It doesn‚Äôt matter?
 
 TYWIN: She was a whore!
 
 TYRION: Say that word again.
 
-TYWIN: And what? Youíll kill your own father in the privy? No. Youíre my son. Enough of this nonsenseÖ
+TYWIN: And what? You‚Äôll kill your own father in the privy? No. You‚Äôre my son. Enough of this nonsense‚Ä¶
 
-TYRION: I am your son, and you sentenced me to die. You knew I didnít poison Joffrey, but you sentenced me all the same. Why?
+TYRION: I am your son, and you sentenced me to die. You knew I didn‚Äôt poison Joffrey, but you sentenced me all the same. Why?
 
-TYWIN: Enough. Weíll go back to my chambers and speak with some dignity.
+TYWIN: Enough. We‚Äôll go back to my chambers and speak with some dignity.
 
-TYRION: I canít go back there. Sheís in there.
+TYRION: I can‚Äôt go back there. She‚Äôs in there.
 
 TYWIN: What, are you afraid of a dead whore?
 
 [Tyrion fires the crossbow at Tywin.]
 
-TYWIN: You shot me. Youíre no son of mine.
+TYWIN: You shot me. You‚Äôre no son of mine.
 
 TYRION: I am your son. I have always been your son.
 
 [Tyrion fires again.]
 
-VARYS: What have you done? Quickly. Trust me, my friend, Iíve brought you this far.
+VARYS: What have you done? Quickly. Trust me, my friend, I‚Äôve brought you this far.
 
 [Varys loads Tyrion, in a transport container, onto a ship. He goes to walk back to King's Landing, but turns around and boards the ship himself]
 
@@ -735,34 +735,34 @@ CUT TO: THE RIVERLANDS
 
 ARYA: I want to see the captain.
 
-CAPTAIN: Youíre seeing him.
+CAPTAIN: You‚Äôre seeing him.
 
 ARYA: I want to go north, to the wall.
 
-CAPTAIN: No you donít.
+CAPTAIN: No you don‚Äôt.
 
 ARYA: I can pay.
 
 CAPTAIN: There is nothing in the north but ice and war and pirates.
 
-ARYA: I wouldnít need a cabin. Please, I could work, scrubbing the floors, orÖ
+ARYA: I wouldn‚Äôt need a cabin. Please, I could work, scrubbing the floors, or‚Ä¶
 
-CAPTAIN: Iím not going north, child, weíre going home.
+CAPTAIN: I‚Äôm not going north, child, we‚Äôre going home.
 
-ARYA: Whereís home?
+ARYA: Where‚Äôs home?
 
 CAPTAIN: The Free City of Braavos.
 
 ARYA: Wait, I have something else.
 
-CAPTAIN: More silver wonít make a difference.
+CAPTAIN: More silver won‚Äôt make a difference.
 
-ARYA: Itís not silver, itís iron.
+ARYA: It‚Äôs not silver, it‚Äôs iron.
 
 [Arya hands over the token she was given by Jaqen H'ghar.]
 
 ARYA: Valar morghulis.
 
-CAPTAIN: How did youÖ valar dohaeris. Of course, you shall have a cabin.
+CAPTAIN: How did you‚Ä¶ valar dohaeris. Of course, you shall have a cabin.
 
 [We see Arya aboard the ship.]

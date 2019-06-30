@@ -1,117 +1,117 @@
 Name,Gender,House,Words
-Ned Stark,Male,Stark,4162
-Robert Baratheon,Male,Baratheon,7596
-Jaime Lannister,Male,Lannister,12220
-Catelyn Stark,Female,Stark,5812
-Cersei Lannister,Female,Lannister,15433
-Daenerys Targaryen,Female,Targaryen,12727
-Jorah Mormont,Male,Mormont,4811
-Viserys Targaryen,Male,Targaryen,1104
-Jon Snow,Male,,12899
-Sansa Stark,Female,Stark,8781
-Arya Stark,Female,Stark,6789
-Robb Stark,Male,Stark,4164
-Theon Greyjoy,Male,Greyjoy,745
-Bran Stark,Male,Stark,3606
-Joffrey Baratheon,Male,Baratheon,3526
-Sandor Clegane,Male,Clegane,3982
-Tyrion Lannister,Male,Lannister,26754
-Petyr Baelish,Male,,8260
-Davos Seaworth,Male,Seaworth,7066
-Samwell Tarly,Male,Tarly,6987
-Stannis Baratheon,Male,Baratheon,4012
-Melisandre,Female,,3657
-Jeor Mormont,Male,Mormont,1176
-Bronn,Male,,4698
-Varys,Male,,7067
-Shae,Female,,2054
-Margaery Tyrell,Female,Tyrell,4579
-Tywin Lannister,Male,Lannister,5992
-Talisa Maegyr,Female,,1442
-Ygritte,Female,,2342
-Gendry,Male,Baratheon,1957
-Tormund Giantsbane,Male,,2344
-Brienne of Tarth,Female,Tarth,4174
-Ramsay Bolton,Male,Bolton,3653
-Gilly,Female,,1710
-Daario Naharis,Male,,2392
-Missandei,Female,,2151
-Ellaria Sand,Female,,773
-Tommen Baratheon,Male,Baratheon,1810
-Jaqen H'ghar,Male,,1586
-Roose Bolton,Male,Bolton,2013
-The High Sparrow,Male,,2876
-Grey Worm,Male,,1346
-Robin Arryn,Male,Arryn,376
-Yohn Royce,Male,,368
+Ned Stark,Male,Stark,3770
+Robert Baratheon,Male,Baratheon,7059
+Jaime Lannister,Male,Lannister,11577
+Catelyn Stark,Female,Stark,5288
+Cersei Lannister,Female,Lannister,14506
+Daenerys Targaryen,Female,Targaryen,12274
+Jorah Mormont,Male,Mormont,4405
+Viserys Targaryen,Male,Targaryen,1035
+Jon Snow,Male,,12223
+Sansa Stark,Female,Stark,8277
+Arya Stark,Female,Stark,6160
+Robb Stark,Male,Stark,3833
+Theon Greyjoy,Male,Greyjoy,678
+Bran Stark,Male,Stark,3250
+Joffrey Baratheon,Male,Baratheon,3257
+Sandor Clegane,Male,Clegane,3806
+Tyrion Lannister,Male,Lannister,26189
+Petyr Baelish,Male,,7778
+Davos Seaworth,Male,Seaworth,6653
+Samwell Tarly,Male,Tarly,6469
+Stannis Baratheon,Male,Baratheon,3717
+Melisandre,Female,,3414
+Jeor Mormont,Male,Mormont,1100
+Bronn,Male,,4653
+Varys,Male,,7202
+Shae,Female,,1828
+Margaery Tyrell,Female,Tyrell,4216
+Tywin Lannister,Male,Lannister,5599
+Talisa Maegyr,Female,,1330
+Ygritte,Female,,2168
+Gendry,Male,Baratheon,1902
+Tormund Giantsbane,Male,,2375
+Brienne of Tarth,Female,Tarth,3978
+Ramsay Bolton,Male,Bolton,3376
+Gilly,Female,,1530
+Daario Naharis,Male,,2227
+Missandei,Female,,1984
+Ellaria Sand,Female,,711
+Tommen Baratheon,Male,Baratheon,1650
+Jaqen H'ghar,Male,,1465
+Roose Bolton,Male,Bolton,1899
+The High Sparrow,Male,,2722
+Grey Worm,Male,,1262
+Robin Arryn,Male,Arryn,338
+Yohn Royce,Male,,339
 Anya Waynwood,Female,,0
-Lysa Arryn,Female,Arryn,1328
-Myrcella Baratheon,Female,Baratheon,309
-Selyse Florent,Female,,653
-Shireen Baratheon,Female,Baratheon,1149
-Renly Baratheon,Male,Baratheon,1364
-Salladhor Saan,Male,,533
-Matthos Seaworth,,,469
-Maester Cressen,Female,,210
-Walda Bolton,Female,Bolton,32
-Harald Karstark,Male,,3
-Jon Umber,Male,,21
-Myranda,Female,,566
-Locke,Male,,798
-Walder Frey,Female,Frey,1704
-Lothar Frey,Male,Frey,164
-Black Walder Rivers,Female,,179
-Yara Greyjoy,Female,Greyjoy,1981
-Euron Greyjoy,Male,Greyjoy,1287
-Aeron Greyjoy,,Greyjoy,170
-Balon Greyjoy,Female,Greyjoy,858
-Dagmer Cleftjaw,Male,,176
-Black Lorren,Male,,139
+Lysa Arryn,Female,Arryn,1252
+Myrcella Baratheon,Female,Baratheon,276
+Selyse Florent,Female,,606
+Shireen Baratheon,Female,Baratheon,1056
+Renly Baratheon,Male,Baratheon,1265
+Salladhor Saan,Male,,504
+Matthos Seaworth,,,439
+Maester Cressen,Female,,196
+Walda Bolton,Female,Bolton,27
+Harald Karstark,Male,,2
+Jon Umber,Male,,18
+Myranda,Female,,522
+Locke,Male,,736
+Walder Frey,Female,Frey,1621
+Lothar Frey,Male,Frey,150
+Black Walder Rivers,Female,,163
+Yara Greyjoy,Female,Greyjoy,1839
+Euron Greyjoy,Male,Greyjoy,1227
+Aeron Greyjoy,,Greyjoy,161
+Balon Greyjoy,Female,Greyjoy,817
+Dagmer Cleftjaw,Male,,156
+Black Lorren,Male,,129
 Gregor Clegane,Female,,0
-Kevan Lannister,Male,Lannister,512
-Lancel Lannister,Male,Lannister,822
-Polliver,Male,,411
-Alton Lannister,Male,Lannister,382
-Amory Lorch,Female,,119
-Lord Leo Lefford,Male,,23
-Tyene Sand,Female,,246
-Nymeria Sand,Female,,132
-Obara Sand,Female,,209
-Trystane Martell,Male,Martell,121
-Doran Martell,Male,Martell,552
-Areo Hotah,Male,,55
-Oberyn Martell,Female,Martell,2041
-Robett Glover,Male,,354
-Meera Reed,Female,,817
-Lyanna Mormont,Female,Mormont,589
-Maester Wolkan,Male,,156
+Kevan Lannister,Male,Lannister,479
+Lancel Lannister,Male,Lannister,748
+Polliver,Male,,384
+Alton Lannister,Male,Lannister,348
+Amory Lorch,Female,,106
+Lord Leo Lefford,Male,,21
+Tyene Sand,Female,,217
+Nymeria Sand,Female,,119
+Obara Sand,Female,,191
+Trystane Martell,Male,Martell,108
+Doran Martell,Male,Martell,522
+Areo Hotah,Male,,47
+Oberyn Martell,Female,Martell,1909
+Robett Glover,Male,,336
+Meera Reed,Female,,713
+Lyanna Mormont,Female,Mormont,548
+Maester Wolkan,Male,,136
 Lyanna Stark,Female,Stark,0
-Rickon Stark,Male,Stark,159
-Hodor,Male,,120
-Osha,Female,,1832
-Jojen Reed,Male,,739
-Rickard Karstark,Male,,449
- Maester Luwin,Male,,1175
-Rodrik Cassel,Male,,234
-Jory Cassel,,,268
-Septa Mordane,Female,,420
-Old Nan,Female,,209
+Rickon Stark,Male,Stark,135
+Hodor,Male,,73
+Osha,Female,,1687
+Jojen Reed,Male,,662
+Rickard Karstark,Male,,422
+ Maester Luwin,Male,,1084
+Rodrik Cassel,Male,,211
+Jory Cassel,,,237
+Septa Mordane,Female,,368
+Old Nan,Female,,204
 Jon Umber,Male,,0
-Barristan Selmy,Female,,1312
-Hizdahr Zo Loraq,Female,,897
-Mossador,Male,,293
-Kovarro,Male,,73
-Doreah,Female,,555
-Irri,Female,,235
-Rakharo,,,226
-Rhaegar Targaryen,Male,Targaryen,24
-Edmure Tully,Male,Tully,697
-Brynden Tully,Male,Tully,819
-Roslin Frey,Female,Frey,11
-Olenna Tyrell,Female,Tyrell,4003
-Mace Tyrell,Female,Tyrell,517
-Loras Tyrell,Female,Tyrell,1198
-Randyll Tarly,Male,Tarly,630
-Melessa Tarly,Female,Tarly,139
-Talla Tarly,Female,Tarly,83
-Dickon Tarly,Male,Tarly,131
+Barristan Selmy,Female,,1214
+Hizdahr Zo Loraq,Female,,845
+Mossador,Male,,278
+Kovarro,Male,,65
+Doreah,Female,,518
+Irri,Female,,211
+Rakharo,,,204
+Rhaegar Targaryen,Male,Targaryen,23
+Edmure Tully,Male,Tully,647
+Brynden Tully,Male,Tully,764
+Roslin Frey,Female,Frey,10
+Olenna Tyrell,Female,Tyrell,3803
+Mace Tyrell,Female,Tyrell,483
+Loras Tyrell,Female,Tyrell,1100
+Randyll Tarly,Male,Tarly,600
+Melessa Tarly,Female,Tarly,125
+Talla Tarly,Female,Tarly,80
+Dickon Tarly,Male,Tarly,114

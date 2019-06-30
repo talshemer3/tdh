@@ -1,3 +1,4 @@
+import itertools
 import json
 import os
 import csv
@@ -20,7 +21,7 @@ def open_script():
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-gpu')
     driver = webdriver.Chrome(ChromeDriverManager().install())
-    for season in range(1, 9):
+    for season in range(2, 9):
         url = f"https://genius.com/albums/Game-of-thrones/Season-{season}-scripts"
         driver.get(url)
         episodes = driver.find_elements_by_class_name("chart_row-content")
@@ -63,7 +64,7 @@ def parser(content, season, ep):
             # line of character
             character = get_character(parts[0])
             if character:
-                add_line(character, season, ep, parts[1])
+                add_line(character, season, ep, parts[1].strip())
             else:
                 if parts[0] not in not_important:
                     not_important.append(parts[0])
@@ -151,17 +152,39 @@ def create_csv_per_character():
 
 
 def export():
-    with open('character_list_results.json', 'w') as output:
+    with open('character_list_results.json', 'w', encoding="utf-8") as output:
         json.dump(characters, output, default=lambda c: c.__dict__)
 
 
-create_characters_arr()
-parser_helper()
-print(not_important)
-count_words_per_season()
-export()
-create_csv()
-create_csv_main_role_general()
-create_csv_per_season()
-create_csv_per_character()
-print("done")
+houses = ['Tarly', 'Martell', 'Frey', 'Bolton', 'Targaryen', 'Stark', 'Lannister', 'Greyjoy', 'Arryn', 'Baratheon',
+          'Tully', 'Tyrell', 'Mormont']
+
+
+def dominant_house():
+    with open('character_list_results.json', 'r') as file:
+        characters_tmp = json.load(file)
+        dom_house = {house: 0 for house in houses}
+        for c in characters_tmp:
+            for line in itertools.chain.from_iterable(c["lines"].values()):
+                for house in houses:
+                    dom_house[house] += line["text"].lower().count(house.lower())
+    with open(f'csvs/houses', 'w') as csvFile:
+        writer = csv.writer(csvFile, lineterminator='\n')
+        writer.writerow(["house", "apearances"])
+        for house in dom_house:
+            writer.writerow([house, dom_house[house]])
+
+
+if __name__ == '__main__':
+    # open_script()
+    # create_characters_arr()
+    # parser_helper()
+    # print(not_important)
+    # count_words_per_season()
+    # export()
+    # create_csv()
+    # create_csv_main_role_general()
+    # create_csv_per_season()
+    # create_csv_per_character()
+    dominant_house()
+    print("done")

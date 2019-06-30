@@ -1,117 +1,117 @@
 Name,Gender,House,Season1,Season2,Season3,Season4,Season5,Season6,Season7,Season8,Total
-Ned Stark,Male,Stark,3602,169,11,163,43,73,18,83,4162
-Robert Baratheon,Male,Baratheon,2574,2725,661,340,352,577,281,86,7596
-Jaime Lannister,Male,Lannister,1409,1251,2187,2069,1025,1851,1951,477,12220
-Catelyn Stark,Female,Stark,1878,1969,1062,119,365,249,142,28,5812
-Cersei Lannister,Female,Lannister,1558,2874,1507,2094,2851,1398,3004,147,15433
-Daenerys Targaryen,Female,Targaryen,1421,1715,1447,1636,1606,1220,2425,1257,12727
-Jorah Mormont,Male,Mormont,1010,751,909,605,589,346,444,157,4811
-Viserys Targaryen,Male,Targaryen,1104,0,0,0,0,0,0,0,1104
-Jon Snow,Male,,1352,780,867,1877,2320,1492,3013,1198,12899
-Sansa Stark,Female,Stark,796,816,1083,1227,839,1616,1810,594,8781
-Arya Stark,Female,Stark,882,966,900,870,875,533,1289,474,6789
-Robb Stark,Male,Stark,975,1773,1416,0,0,0,0,0,4164
-Theon Greyjoy,Male,Greyjoy,745,0,0,0,0,0,0,0,745
-Bran Stark,Male,Stark,615,581,900,237,64,387,490,332,3606
-Joffrey Baratheon,Male,Baratheon,955,1156,975,440,0,0,0,0,3526
-Sandor Clegane,Male,Clegane,125,433,799,1492,0,381,607,145,3982
-Tyrion Lannister,Male,Lannister,3822,4978,3291,3604,3441,2596,2897,2125,26754
-Petyr Baelish,Male,,1845,1347,676,1303,1720,599,770,0,8260
-Davos Seaworth,Male,Seaworth,0,1205,1387,748,830,1416,1015,465,7066
-Samwell Tarly,Male,Tarly,683,561,974,1188,1387,625,867,702,6987
-Stannis Baratheon,Male,Baratheon,0,1304,695,379,1634,0,0,0,4012
-Melisandre,Female,,0,663,1003,493,709,556,233,0,3657
-Jeor Mormont,Male,Mormont,722,214,240,0,0,0,0,0,1176
-Bronn,Male,,302,804,545,814,1070,399,567,197,4698
-Varys,Male,,1358,1432,1289,496,789,893,748,62,7067
-Shae,Female,,271,684,549,550,0,0,0,0,2054
-Margaery Tyrell,Female,Tyrell,358,546,1620,545,734,776,0,0,4579
-Tywin Lannister,Male,Lannister,465,1372,1835,2320,0,0,0,0,5992
-Talisa Maegyr,Female,,0,967,475,0,0,0,0,0,1442
-Ygritte,Female,,0,1011,1036,295,0,0,0,0,2342
-Gendry,Male,Baratheon,156,418,669,0,0,0,404,310,1957
-Tormund Giantsbane,Male,,54,12,402,334,373,487,445,237,2344
-Brienne of Tarth,Female,Tarth,0,552,549,961,1022,649,159,282,4174
-Ramsay Bolton,Male,Bolton,0,0,805,722,1168,958,0,0,3653
-Gilly,Female,,0,72,372,303,370,419,122,52,1710
-Daario Naharis,Male,,0,0,429,322,1028,613,0,0,2392
-Missandei,Female,,0,0,787,415,248,330,351,20,2151
-Ellaria Sand,Female,,0,0,0,141,333,144,155,0,773
-Tommen Baratheon,Male,Baratheon,0,143,143,235,467,817,5,0,1810
-Jaqen H'ghar,Male,,0,659,0,0,586,341,0,0,1586
-Roose Bolton,Male,Bolton,0,312,381,308,762,250,0,0,2013
-The High Sparrow,Male,,0,0,0,0,1277,1599,0,0,2876
-Grey Worm,Male,,0,0,71,313,153,409,166,234,1346
-Robin Arryn,Male,Arryn,65,0,0,277,0,32,0,2,376
-Yohn Royce,Male,,76,0,0,0,65,96,103,28,368
+Ned Stark,Male,Stark,3262,157,10,149,41,62,15,74,3770
+Robert Baratheon,Male,Baratheon,2450,2549,580,307,317,522,255,79,7059
+Jaime Lannister,Male,Lannister,1324,1179,2051,1885,921,1731,1798,688,11577
+Catelyn Stark,Female,Stark,1722,1771,973,97,323,222,133,47,5288
+Cersei Lannister,Female,Lannister,1438,2695,1402,1932,2662,1314,2849,214,14506
+Daenerys Targaryen,Female,Targaryen,1275,1579,1329,1510,1476,1130,2260,1715,12274
+Jorah Mormont,Male,Mormont,915,695,851,554,529,314,406,141,4405
+Viserys Targaryen,Male,Targaryen,1035,0,0,0,0,0,0,0,1035
+Jon Snow,Male,,1204,678,770,1738,2157,1380,2795,1501,12223
+Sansa Stark,Female,Stark,694,732,982,1127,743,1500,1671,828,8277
+Arya Stark,Female,Stark,780,830,792,768,796,465,1187,542,6160
+Robb Stark,Male,Stark,875,1642,1316,0,0,0,0,0,3833
+Theon Greyjoy,Male,Greyjoy,678,0,0,0,0,0,0,0,678
+Bran Stark,Male,Stark,537,527,815,195,56,337,441,342,3250
+Joffrey Baratheon,Male,Baratheon,895,1062,898,402,0,0,0,0,3257
+Sandor Clegane,Male,Clegane,112,400,739,1378,0,340,543,294,3806
+Tyrion Lannister,Male,Lannister,3600,4634,3046,3374,3254,2436,2726,3119,26189
+Petyr Baelish,Male,,1731,1266,633,1231,1628,565,724,0,7778
+Davos Seaworth,Male,Seaworth,0,1109,1286,698,776,1316,935,533,6653
+Samwell Tarly,Male,Tarly,625,512,898,1085,1288,575,800,686,6469
+Stannis Baratheon,Male,Baratheon,0,1214,633,345,1525,0,0,0,3717
+Melisandre,Female,,0,617,938,464,662,514,219,0,3414
+Jeor Mormont,Male,Mormont,688,194,218,0,0,0,0,0,1100
+Bronn,Male,,264,744,500,757,983,367,517,521,4653
+Varys,Male,,1278,1352,1232,464,740,847,710,579,7202
+Shae,Female,,236,603,486,503,0,0,0,0,1828
+Margaery Tyrell,Female,Tyrell,319,502,1510,495,675,715,0,0,4216
+Tywin Lannister,Male,Lannister,429,1280,1731,2159,0,0,0,0,5599
+Talisa Maegyr,Female,,0,907,423,0,0,0,0,0,1330
+Ygritte,Female,,0,942,950,276,0,0,0,0,2168
+Gendry,Male,Baratheon,147,378,595,0,0,0,372,410,1902
+Tormund Giantsbane,Male,,51,10,360,303,343,446,404,458,2375
+Brienne of Tarth,Female,Tarth,0,500,489,868,965,602,133,421,3978
+Ramsay Bolton,Male,Bolton,0,0,739,658,1094,885,0,0,3376
+Gilly,Female,,0,63,317,264,328,380,111,67,1530
+Daario Naharis,Male,,0,0,392,297,977,561,0,0,2227
+Missandei,Female,,0,0,729,370,233,296,322,34,1984
+Ellaria Sand,Female,,0,0,0,122,311,136,142,0,711
+Tommen Baratheon,Male,Baratheon,0,118,135,210,422,762,3,0,1650
+Jaqen H'ghar,Male,,0,611,0,0,539,315,0,0,1465
+Roose Bolton,Male,Bolton,0,293,351,292,725,238,0,0,1899
+The High Sparrow,Male,,0,0,0,0,1196,1526,0,0,2722
+Grey Worm,Male,,0,0,67,289,135,376,153,242,1262
+Robin Arryn,Male,Arryn,56,0,0,255,0,26,0,1,338
+Yohn Royce,Male,,71,0,0,0,59,90,95,24,339
 Anya Waynwood,Female,,0,0,0,0,0,0,0,0,0
-Lysa Arryn,Female,Arryn,448,0,0,880,0,0,0,0,1328
-Myrcella Baratheon,Female,Baratheon,6,39,0,0,264,0,0,0,309
-Selyse Florent,Female,,0,0,187,313,153,0,0,0,653
-Shireen Baratheon,Female,Baratheon,0,0,447,167,535,0,0,0,1149
-Renly Baratheon,Male,Baratheon,625,739,0,0,0,0,0,0,1364
-Salladhor Saan,Male,,0,256,277,0,0,0,0,0,533
-Matthos Seaworth,,,0,469,0,0,0,0,0,0,469
-Maester Cressen,Female,,0,154,0,0,0,56,0,0,210
-Walda Bolton,Female,Bolton,0,0,0,2,30,0,0,0,32
-Harald Karstark,Male,,0,0,0,0,0,3,0,0,3
-Jon Umber,Male,,0,0,0,0,0,0,0,21,21
-Myranda,Female,,0,0,96,38,432,0,0,0,566
-Locke,Male,,0,0,520,278,0,0,0,0,798
-Walder Frey,Female,Frey,273,0,701,0,0,515,215,0,1704
-Lothar Frey,Male,Frey,0,0,88,0,0,76,0,0,164
-Black Walder Rivers,Female,,0,0,67,0,0,112,0,0,179
-Yara Greyjoy,Female,Greyjoy,0,601,81,234,0,812,108,145,1981
-Euron Greyjoy,Male,Greyjoy,0,0,0,0,0,446,663,178,1287
-Aeron Greyjoy,,Greyjoy,0,0,0,0,0,170,0,0,170
-Balon Greyjoy,Female,Greyjoy,0,497,181,0,0,180,0,0,858
-Dagmer Cleftjaw,Male,,0,176,0,0,0,0,0,0,176
-Black Lorren,Male,,0,139,0,0,0,0,0,0,139
+Lysa Arryn,Female,Arryn,417,0,0,835,0,0,0,0,1252
+Myrcella Baratheon,Female,Baratheon,5,36,0,0,235,0,0,0,276
+Selyse Florent,Female,,0,0,176,292,138,0,0,0,606
+Shireen Baratheon,Female,Baratheon,0,0,419,146,491,0,0,0,1056
+Renly Baratheon,Male,Baratheon,581,684,0,0,0,0,0,0,1265
+Salladhor Saan,Male,,0,242,262,0,0,0,0,0,504
+Matthos Seaworth,,,0,439,0,0,0,0,0,0,439
+Maester Cressen,Female,,0,147,0,0,0,49,0,0,196
+Walda Bolton,Female,Bolton,0,0,0,1,26,0,0,0,27
+Harald Karstark,Male,,0,0,0,0,0,2,0,0,2
+Jon Umber,Male,,0,0,0,0,0,0,0,18,18
+Myranda,Female,,0,0,83,31,408,0,0,0,522
+Locke,Male,,0,0,478,258,0,0,0,0,736
+Walder Frey,Female,Frey,260,0,666,0,0,489,206,0,1621
+Lothar Frey,Male,Frey,0,0,83,0,0,67,0,0,150
+Black Walder Rivers,Female,,0,0,63,0,0,100,0,0,163
+Yara Greyjoy,Female,Greyjoy,0,562,76,218,0,754,95,134,1839
+Euron Greyjoy,Male,Greyjoy,0,0,0,0,0,423,629,175,1227
+Aeron Greyjoy,,Greyjoy,0,0,0,0,0,161,0,0,161
+Balon Greyjoy,Female,Greyjoy,0,476,174,0,0,167,0,0,817
+Dagmer Cleftjaw,Male,,0,156,0,0,0,0,0,0,156
+Black Lorren,Male,,0,129,0,0,0,0,0,0,129
 Gregor Clegane,Female,,0,0,0,0,0,0,0,0,0
-Kevan Lannister,Male,Lannister,108,85,0,0,173,146,0,0,512
-Lancel Lannister,Male,Lannister,66,460,0,0,194,102,0,0,822
-Polliver,Male,,0,80,0,331,0,0,0,0,411
-Alton Lannister,Male,Lannister,0,382,0,0,0,0,0,0,382
-Amory Lorch,Female,,0,119,0,0,0,0,0,0,119
-Lord Leo Lefford,Male,,23,0,0,0,0,0,0,0,23
-Tyene Sand,Female,,0,0,0,0,211,0,35,0,246
-Nymeria Sand,Female,,0,0,0,0,78,34,20,0,132
-Obara Sand,Female,,0,0,0,0,146,38,25,0,209
-Trystane Martell,Male,Martell,0,0,0,0,104,17,0,0,121
-Doran Martell,Male,Martell,0,0,0,0,462,90,0,0,552
-Areo Hotah,Male,,0,0,0,0,55,0,0,0,55
-Oberyn Martell,Female,Martell,0,0,0,2041,0,0,0,0,2041
-Robett Glover,Male,,0,0,0,0,0,278,76,0,354
-Meera Reed,Female,,0,0,284,199,0,243,91,0,817
-Lyanna Mormont,Female,Mormont,0,0,0,0,0,384,106,99,589
-Maester Wolkan,Male,,0,0,0,0,0,53,66,37,156
+Kevan Lannister,Male,Lannister,100,81,0,0,163,135,0,0,479
+Lancel Lannister,Male,Lannister,59,418,0,0,179,92,0,0,748
+Polliver,Male,,0,71,0,313,0,0,0,0,384
+Alton Lannister,Male,Lannister,0,348,0,0,0,0,0,0,348
+Amory Lorch,Female,,0,106,0,0,0,0,0,0,106
+Lord Leo Lefford,Male,,21,0,0,0,0,0,0,0,21
+Tyene Sand,Female,,0,0,0,0,186,0,31,0,217
+Nymeria Sand,Female,,0,0,0,0,72,29,18,0,119
+Obara Sand,Female,,0,0,0,0,136,33,22,0,191
+Trystane Martell,Male,Martell,0,0,0,0,93,15,0,0,108
+Doran Martell,Male,Martell,0,0,0,0,438,84,0,0,522
+Areo Hotah,Male,,0,0,0,0,47,0,0,0,47
+Oberyn Martell,Female,Martell,0,0,0,1909,0,0,0,0,1909
+Robett Glover,Male,,0,0,0,0,0,265,71,0,336
+Meera Reed,Female,,0,0,250,170,0,210,83,0,713
+Lyanna Mormont,Female,Mormont,0,0,0,0,0,358,100,90,548
+Maester Wolkan,Male,,0,0,0,0,0,47,58,31,136
 Lyanna Stark,Female,Stark,0,0,0,0,0,0,0,0,0
-Rickon Stark,Male,Stark,41,35,83,0,0,0,0,0,159
-Hodor,Male,,2,6,27,47,0,38,0,0,120
-Osha,Female,,291,552,898,0,0,91,0,0,1832
-Jojen Reed,Male,,0,0,492,247,0,0,0,0,739
-Rickard Karstark,Male,,31,201,188,0,0,29,0,0,449
- Maester Luwin,Male,,469,706,0,0,0,0,0,0,1175
-Rodrik Cassel,Male,,72,162,0,0,0,0,0,0,234
-Jory Cassel,,,268,0,0,0,0,0,0,0,268
-Septa Mordane,Female,,397,0,0,0,23,0,0,0,420
-Old Nan,Female,,209,0,0,0,0,0,0,0,209
+Rickon Stark,Male,Stark,34,29,72,0,0,0,0,0,135
+Hodor,Male,,1,3,14,32,0,23,0,0,73
+Osha,Female,,261,507,837,0,0,82,0,0,1687
+Jojen Reed,Male,,0,0,439,223,0,0,0,0,662
+Rickard Karstark,Male,,30,188,177,0,0,27,0,0,422
+ Maester Luwin,Male,,426,658,0,0,0,0,0,0,1084
+Rodrik Cassel,Male,,62,149,0,0,0,0,0,0,211
+Jory Cassel,,,237,0,0,0,0,0,0,0,237
+Septa Mordane,Female,,352,0,0,0,16,0,0,0,368
+Old Nan,Female,,204,0,0,0,0,0,0,0,204
 Jon Umber,Male,,0,0,0,0,0,0,0,0,0
-Barristan Selmy,Female,,241,0,517,167,387,0,0,0,1312
-Hizdahr Zo Loraq,Female,,0,0,0,232,665,0,0,0,897
-Mossador,Male,,0,0,0,44,249,0,0,0,293
-Kovarro,Male,,0,73,0,0,0,0,0,0,73
-Doreah,Female,,470,85,0,0,0,0,0,0,555
-Irri,Female,,138,97,0,0,0,0,0,0,235
-Rakharo,,,199,27,0,0,0,0,0,0,226
-Rhaegar Targaryen,Male,Targaryen,0,0,0,0,0,0,24,0,24
-Edmure Tully,Male,Tully,0,0,351,0,0,263,0,83,697
-Brynden Tully,Male,Tully,0,0,347,0,0,472,0,0,819
-Roslin Frey,Female,Frey,0,0,11,0,0,0,0,0,11
-Olenna Tyrell,Female,Tyrell,0,0,1595,876,573,447,512,0,4003
-Mace Tyrell,Female,Tyrell,0,0,0,119,346,52,0,0,517
-Loras Tyrell,Female,Tyrell,311,209,223,23,254,178,0,0,1198
-Randyll Tarly,Male,Tarly,0,0,0,0,0,320,310,0,630
-Melessa Tarly,Female,Tarly,0,0,0,0,0,139,0,0,139
-Talla Tarly,Female,Tarly,0,0,0,0,0,83,0,0,83
-Dickon Tarly,Male,Tarly,0,0,0,0,0,51,80,0,131
+Barristan Selmy,Female,,217,0,478,154,365,0,0,0,1214
+Hizdahr Zo Loraq,Female,,0,0,0,222,623,0,0,0,845
+Mossador,Male,,0,0,0,41,237,0,0,0,278
+Kovarro,Male,,0,65,0,0,0,0,0,0,65
+Doreah,Female,,443,75,0,0,0,0,0,0,518
+Irri,Female,,121,90,0,0,0,0,0,0,211
+Rakharo,,,180,24,0,0,0,0,0,0,204
+Rhaegar Targaryen,Male,Targaryen,0,0,0,0,0,0,23,0,23
+Edmure Tully,Male,Tully,0,0,323,0,0,245,0,79,647
+Brynden Tully,Male,Tully,0,0,326,0,0,438,0,0,764
+Roslin Frey,Female,Frey,0,0,10,0,0,0,0,0,10
+Olenna Tyrell,Female,Tyrell,0,0,1516,841,536,418,492,0,3803
+Mace Tyrell,Female,Tyrell,0,0,0,110,326,47,0,0,483
+Loras Tyrell,Female,Tyrell,288,193,203,18,230,168,0,0,1100
+Randyll Tarly,Male,Tarly,0,0,0,0,0,309,291,0,600
+Melessa Tarly,Female,Tarly,0,0,0,0,0,125,0,0,125
+Talla Tarly,Female,Tarly,0,0,0,0,0,80,0,0,80
+Dickon Tarly,Male,Tarly,0,0,0,0,0,46,68,0,114
