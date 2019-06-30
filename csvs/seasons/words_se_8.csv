@@ -1,17 +1,17 @@
 Name,Gender,Words
-Ned Stark,Male,74
-Robert Baratheon,Male,79
+Ned Stark,Male,0
+Robert Baratheon,Male,0
 Jaime Lannister,Male,688
-Catelyn Stark,Female,47
+Catelyn Stark,Female,0
 Cersei Lannister,Female,214
-Daenerys Targaryen,Female,1715
+Daenerys Targaryen,Female,1712
 Jorah Mormont,Male,141
 Viserys Targaryen,Male,0
-Jon Snow,Male,1501
+Jon Snow,Male,1498
 Sansa Stark,Female,828
 Arya Stark,Female,542
 Robb Stark,Male,0
-Theon Greyjoy,Male,0
+Theon Greyjoy,Male,79
 Bran Stark,Male,342
 Joffrey Baratheon,Male,0
 Sandor Clegane,Male,294
@@ -20,7 +20,7 @@ Petyr Baelish,Male,0
 Davos Seaworth,Male,533
 Samwell Tarly,Male,686
 Stannis Baratheon,Male,0
-Melisandre,Female,0
+Melisandre,Female,12
 Jeor Mormont,Male,0
 Bronn,Male,521
 Varys,Male,579
@@ -30,7 +30,7 @@ Tywin Lannister,Male,0
 Talisa Maegyr,Female,0
 Ygritte,Female,0
 Gendry,Male,410
-Tormund Giantsbane,Male,458
+Tormund Giantsbane,Male,422
 Brienne of Tarth,Female,421
 Ramsay Bolton,Male,0
 Gilly,Female,67
@@ -83,7 +83,7 @@ Areo Hotah,Male,0
 Oberyn Martell,Female,0
 Robett Glover,Male,0
 Meera Reed,Female,0
-Lyanna Mormont,Female,90
+Lyanna Mormont,Female,84
 Maester Wolkan,Male,31
 Lyanna Stark,Female,0
 Rickon Stark,Male,0

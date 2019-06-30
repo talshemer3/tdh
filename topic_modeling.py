@@ -55,14 +55,15 @@ def modeling():
 
 
 def word_cloud():
-    wordcloud = WordCloud(background_color="white", max_words=200, contour_width=3)
+    wordcloud = WordCloud(background_color="white", max_words=200, contour_width=6)
     with open('character_list_results.json', 'r') as f:
         characters = json.load(f)
         lines = list(
             itertools.chain.from_iterable([itertools.chain.from_iterable(c["lines"].values()) for c in characters]))
-    processed_lines = [TextBlob(line["text"]).noun_phrases for line in lines]
-    # processed_lines = [[word.lower() for (word, pos) in nltk.pos_tag(nltk.word_tokenize(line["text"])) if pos[0] == 'N'] for
-    #                    line in lines]
+    # processed_lines = [TextBlob(line["text"]).noun_phrases for line in lines]
+    processed_lines = [[word.lower() for (word, pos) in nltk.pos_tag(nltk.word_tokenize(line["text"])) if pos[0] == 'N']
+                       for
+                       line in lines]
     wordcloud.generate(','.join(list(itertools.chain.from_iterable(processed_lines))))
     wordcloud.to_image().save('img.png')
 

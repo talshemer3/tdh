@@ -1,17 +1,17 @@
 Name,Gender,Words
-Ned Stark,Male,157
-Robert Baratheon,Male,2549
+Ned Stark,Male,0
+Robert Baratheon,Male,0
 Jaime Lannister,Male,1179
-Catelyn Stark,Female,1771
-Cersei Lannister,Female,2695
+Catelyn Stark,Female,1107
+Cersei Lannister,Female,2684
 Daenerys Targaryen,Female,1579
 Jorah Mormont,Male,695
 Viserys Targaryen,Male,0
 Jon Snow,Male,678
 Sansa Stark,Female,732
 Arya Stark,Female,830
-Robb Stark,Male,1642
-Theon Greyjoy,Male,0
+Robb Stark,Male,1639
+Theon Greyjoy,Male,2546
 Bran Stark,Male,527
 Joffrey Baratheon,Male,1062
 Sandor Clegane,Male,400
@@ -20,24 +20,24 @@ Petyr Baelish,Male,1266
 Davos Seaworth,Male,1109
 Samwell Tarly,Male,512
 Stannis Baratheon,Male,1214
-Melisandre,Female,617
+Melisandre,Female,778
 Jeor Mormont,Male,194
 Bronn,Male,744
 Varys,Male,1352
 Shae,Female,603
-Margaery Tyrell,Female,502
+Margaery Tyrell,Female,387
 Tywin Lannister,Male,1280
 Talisa Maegyr,Female,907
 Ygritte,Female,942
 Gendry,Male,378
-Tormund Giantsbane,Male,10
+Tormund Giantsbane,Male,0
 Brienne of Tarth,Female,500
 Ramsay Bolton,Male,0
 Gilly,Female,63
 Daario Naharis,Male,0
 Missandei,Female,0
 Ellaria Sand,Female,0
-Tommen Baratheon,Male,118
+Tommen Baratheon,Male,26
 Jaqen H'ghar,Male,611
 Roose Bolton,Male,293
 The High Sparrow,Male,0

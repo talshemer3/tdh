@@ -2,6 +2,7 @@ import itertools
 import json
 import os
 import csv
+import re
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -60,7 +61,7 @@ def parser(content, season, ep):
     lines = content.splitlines()
     for l in lines:
         parts = l.split(":")
-        if len(parts) >= 2:
+        if len(parts) >= 2 and len(parts[0]) < 20 and '[' not in parts[0]:
             # line of character
             character = get_character(parts[0])
             if character:
@@ -82,10 +83,10 @@ def get_character(name):
     global characters
     name = name.split('(')[0].lower().strip()
     for c in characters:
-        if name in c.name.lower():
+        if re.search(fr'\b{name}\b', c.name.lower()):
             return c
         for alias in c.aliases:
-            if name in alias.lower():
+            if re.search(fr'\b{name}\b', alias.lower()):
                 return c
 
 
@@ -177,14 +178,14 @@ def dominant_house():
 
 if __name__ == '__main__':
     # open_script()
-    # create_characters_arr()
-    # parser_helper()
-    # print(not_important)
-    # count_words_per_season()
-    # export()
-    # create_csv()
-    # create_csv_main_role_general()
-    # create_csv_per_season()
-    # create_csv_per_character()
+    create_characters_arr()
+    parser_helper()
+    print(not_important)
+    count_words_per_season()
+    export()
+    create_csv()
+    create_csv_main_role_general()
+    create_csv_per_season()
+    create_csv_per_character()
     dominant_house()
     print("done")

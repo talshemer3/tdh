@@ -72,16 +72,18 @@ def parse_supporting_characters():
 def parse_main_characters():
     global main_characters
     for character in main_characters:
-        name = None
+        name_tmp = None
         aliases = []
         for i, exep in enumerate(exceptions_name_list):
             if exep in character.title:
                 name = correct_name_list[i].replace(' (character)', '')
+                name_tmp = correct_name_list[i]
                 aliases.append(character.title)
                 break
-        if not name:
+        if not name_tmp:
+            name_tmp = character.title
             name = character.title
-        tmp_name = name.replace(' ', '_')
+        tmp_name = name_tmp.replace(' ', '_')
         data = requests.get(f'http://dbpedia.org/data/{tmp_name}.json').json()
         character_dbpedia = data.get(f'http://dbpedia.org/resource/{tmp_name}')
         ch_house = None
@@ -100,7 +102,7 @@ def parse_main_characters():
         # extract house
         # by name
         for i, house in enumerate(houses):
-            if house in name:
+            if house in name_tmp:
                 ch_house = house
                 break
         if not ch_house and character_dbpedia:
@@ -116,7 +118,7 @@ def parse_main_characters():
 
 
 def export():
-    with open('character_list_with_aliases.json', 'w') as output:
+    with open('character_list_with.json', 'w') as output:
         json.dump(characters, output, default=lambda c: c.__dict__)
 
 

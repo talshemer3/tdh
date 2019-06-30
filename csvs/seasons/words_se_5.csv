@@ -1,28 +1,28 @@
 Name,Gender,Words
-Ned Stark,Male,41
-Robert Baratheon,Male,317
+Ned Stark,Male,0
+Robert Baratheon,Male,0
 Jaime Lannister,Male,921
-Catelyn Stark,Female,323
-Cersei Lannister,Female,2662
-Daenerys Targaryen,Female,1476
+Catelyn Stark,Female,0
+Cersei Lannister,Female,2628
+Daenerys Targaryen,Female,1457
 Jorah Mormont,Male,529
 Viserys Targaryen,Male,0
-Jon Snow,Male,2157
+Jon Snow,Male,2128
 Sansa Stark,Female,743
 Arya Stark,Female,796
 Robb Stark,Male,0
-Theon Greyjoy,Male,0
-Bran Stark,Male,56
+Theon Greyjoy,Male,317
+Bran Stark,Male,0
 Joffrey Baratheon,Male,0
 Sandor Clegane,Male,0
 Tyrion Lannister,Male,3254
 Petyr Baelish,Male,1628
 Davos Seaworth,Male,776
 Samwell Tarly,Male,1288
-Stannis Baratheon,Male,1525
-Melisandre,Female,662
+Stannis Baratheon,Male,1515
+Melisandre,Female,715
 Jeor Mormont,Male,0
-Bronn,Male,983
+Bronn,Male,978
 Varys,Male,740
 Shae,Female,0
 Margaery Tyrell,Female,675
@@ -30,24 +30,24 @@ Tywin Lannister,Male,0
 Talisa Maegyr,Female,0
 Ygritte,Female,0
 Gendry,Male,0
-Tormund Giantsbane,Male,343
+Tormund Giantsbane,Male,342
 Brienne of Tarth,Female,965
 Ramsay Bolton,Male,1094
 Gilly,Female,328
 Daario Naharis,Male,977
-Missandei,Female,233
+Missandei,Female,217
 Ellaria Sand,Female,311
-Tommen Baratheon,Male,422
+Tommen Baratheon,Male,405
 Jaqen H'ghar,Male,539
 Roose Bolton,Male,725
-The High Sparrow,Male,1196
+The High Sparrow,Male,1189
 Grey Worm,Male,135
 Robin Arryn,Male,0
 Yohn Royce,Male,59
 Anya Waynwood,Female,0
 Lysa Arryn,Female,0
-Myrcella Baratheon,Female,235
-Selyse Florent,Female,138
+Myrcella Baratheon,Female,228
+Selyse Florent,Female,136
 Shireen Baratheon,Female,491
 Renly Baratheon,Male,0
 Salladhor Saan,Male,0
@@ -98,7 +98,7 @@ Septa Mordane,Female,16
 Old Nan,Female,0
 Jon Umber,Male,0
 Barristan Selmy,Female,365
-Hizdahr Zo Loraq,Female,623
+Hizdahr Zo Loraq,Female,614
 Mossador,Male,237
 Kovarro,Male,0
 Doreah,Female,0
@@ -108,7 +108,7 @@ Rhaegar Targaryen,Male,0
 Edmure Tully,Male,0
 Brynden Tully,Male,0
 Roslin Frey,Female,0
-Olenna Tyrell,Female,536
+Olenna Tyrell,Female,530
 Mace Tyrell,Female,326
 Loras Tyrell,Female,230
 Randyll Tarly,Male,0

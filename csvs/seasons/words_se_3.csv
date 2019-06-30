@@ -1,8 +1,8 @@
 Name,Gender,Words
 Ned Stark,Male,10
-Robert Baratheon,Male,580
+Robert Baratheon,Male,0
 Jaime Lannister,Male,2051
-Catelyn Stark,Female,973
+Catelyn Stark,Female,731
 Cersei Lannister,Female,1402
 Daenerys Targaryen,Female,1329
 Jorah Mormont,Male,851
@@ -11,7 +11,7 @@ Jon Snow,Male,770
 Sansa Stark,Female,982
 Arya Stark,Female,792
 Robb Stark,Male,1316
-Theon Greyjoy,Male,0
+Theon Greyjoy,Male,563
 Bran Stark,Male,815
 Joffrey Baratheon,Male,898
 Sandor Clegane,Male,739
@@ -20,24 +20,24 @@ Petyr Baelish,Male,633
 Davos Seaworth,Male,1286
 Samwell Tarly,Male,898
 Stannis Baratheon,Male,633
-Melisandre,Female,938
+Melisandre,Female,962
 Jeor Mormont,Male,218
 Bronn,Male,500
 Varys,Male,1232
 Shae,Female,486
-Margaery Tyrell,Female,1510
+Margaery Tyrell,Female,1324
 Tywin Lannister,Male,1731
 Talisa Maegyr,Female,423
 Ygritte,Female,950
 Gendry,Male,595
-Tormund Giantsbane,Male,360
+Tormund Giantsbane,Male,354
 Brienne of Tarth,Female,489
 Ramsay Bolton,Male,739
 Gilly,Female,317
 Daario Naharis,Male,392
 Missandei,Female,729
 Ellaria Sand,Female,0
-Tommen Baratheon,Male,135
+Tommen Baratheon,Male,0
 Jaqen H'ghar,Male,0
 Roose Bolton,Male,351
 The High Sparrow,Male,0
