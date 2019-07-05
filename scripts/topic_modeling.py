@@ -37,7 +37,8 @@ def preprocess1(text):
     return result
 
 
-def modeling():
+# LDA algorithm
+def topic_modeling():
     with open('character_list_results.json', 'r') as f:
         characters = json.load(f)
         lines = list(
@@ -46,7 +47,6 @@ def modeling():
     # processed_lines = [TextBlob(line["text"]).noun_phrases for line in lines]
     processed_lines = [[word.lower() for (word, pos) in nltk.pos_tag(nltk.word_tokenize(line["text"])) if pos[0] == 'N']
                        for line in lines]
-    # print(processed_lines)
 
     dictionary = gensim.corpora.Dictionary(processed_lines)
     bow_corpus = [dictionary.doc2bow(line) for line in processed_lines]
@@ -60,6 +60,7 @@ def modeling():
         print("\n")
 
 
+# words cloud algorithm including only nouns
 def word_cloud():
     wordcloud = WordCloud(background_color="white", width=900, height=400, max_words=400, contour_width=6,
                           stopwords={"one", "don", "thing", "come"})
@@ -77,4 +78,4 @@ def word_cloud():
 
 if __name__ == '__main__':
     word_cloud()
-    modeling()
+    topic_modeling()
