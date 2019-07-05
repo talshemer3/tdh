@@ -3,6 +3,7 @@
 As a part of a Digital Humanities course for computer science students from Ben Gurion University taught by Yael Netzer,
 we collected all the scripts of “Game of thrones” , analyzed the dominance of a character by spoken words and visualized
 it into graphs according characters, gender and houses throughout the seasons and in the whole series.
+#### [project website](https://noalevixd.wixsite.com/gameofthrones) 
 
 #### Scrips directory:
 
