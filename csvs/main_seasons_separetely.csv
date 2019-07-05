@@ -1,0 +1,929 @@
+Name,Gender,House,Season,Total
+Ned Stark,Male,Stark,1,3262
+Ned Stark,Male,Stark,2,0
+Ned Stark,Male,Stark,3,10
+Ned Stark,Male,Stark,4,0
+Ned Stark,Male,Stark,5,0
+Ned Stark,Male,Stark,6,62
+Ned Stark,Male,Stark,7,0
+Ned Stark,Male,Stark,8,0
+Robert Baratheon,Male,Baratheon,1,2396
+Robert Baratheon,Male,Baratheon,2,0
+Robert Baratheon,Male,Baratheon,3,0
+Robert Baratheon,Male,Baratheon,4,0
+Robert Baratheon,Male,Baratheon,5,0
+Robert Baratheon,Male,Baratheon,6,0
+Robert Baratheon,Male,Baratheon,7,0
+Robert Baratheon,Male,Baratheon,8,0
+Jaime Lannister,Male,Lannister,1,1324
+Jaime Lannister,Male,Lannister,2,1179
+Jaime Lannister,Male,Lannister,3,2051
+Jaime Lannister,Male,Lannister,4,1885
+Jaime Lannister,Male,Lannister,5,921
+Jaime Lannister,Male,Lannister,6,1731
+Jaime Lannister,Male,Lannister,7,1798
+Jaime Lannister,Male,Lannister,8,688
+Catelyn Stark,Female,Stark,1,1623
+Catelyn Stark,Female,Stark,2,1107
+Catelyn Stark,Female,Stark,3,731
+Catelyn Stark,Female,Stark,4,0
+Catelyn Stark,Female,Stark,5,0
+Catelyn Stark,Female,Stark,6,0
+Catelyn Stark,Female,Stark,7,0
+Catelyn Stark,Female,Stark,8,0
+Cersei Lannister,Female,Lannister,1,1438
+Cersei Lannister,Female,Lannister,2,2684
+Cersei Lannister,Female,Lannister,3,1402
+Cersei Lannister,Female,Lannister,4,1932
+Cersei Lannister,Female,Lannister,5,2628
+Cersei Lannister,Female,Lannister,6,1310
+Cersei Lannister,Female,Lannister,7,2849
+Cersei Lannister,Female,Lannister,8,214
+Daenerys Targaryen,Female,Targaryen,1,1275
+Daenerys Targaryen,Female,Targaryen,2,1579
+Daenerys Targaryen,Female,Targaryen,3,1329
+Daenerys Targaryen,Female,Targaryen,4,1510
+Daenerys Targaryen,Female,Targaryen,5,1457
+Daenerys Targaryen,Female,Targaryen,6,1056
+Daenerys Targaryen,Female,Targaryen,7,2260
+Daenerys Targaryen,Female,Targaryen,8,1712
+Jorah Mormont,Male,Mormont,1,883
+Jorah Mormont,Male,Mormont,2,695
+Jorah Mormont,Male,Mormont,3,851
+Jorah Mormont,Male,Mormont,4,554
+Jorah Mormont,Male,Mormont,5,529
+Jorah Mormont,Male,Mormont,6,314
+Jorah Mormont,Male,Mormont,7,406
+Jorah Mormont,Male,Mormont,8,141
+Viserys Targaryen,Male,Targaryen,1,1034
+Viserys Targaryen,Male,Targaryen,2,0
+Viserys Targaryen,Male,Targaryen,3,0
+Viserys Targaryen,Male,Targaryen,4,0
+Viserys Targaryen,Male,Targaryen,5,0
+Viserys Targaryen,Male,Targaryen,6,0
+Viserys Targaryen,Male,Targaryen,7,0
+Viserys Targaryen,Male,Targaryen,8,0
+Jon Snow,Male,Stark,1,1204
+Jon Snow,Male,Stark,2,678
+Jon Snow,Male,Stark,3,770
+Jon Snow,Male,Stark,4,1738
+Jon Snow,Male,Stark,5,2128
+Jon Snow,Male,Stark,6,1362
+Jon Snow,Male,Stark,7,2795
+Jon Snow,Male,Stark,8,1498
+Sansa Stark,Female,Stark,1,694
+Sansa Stark,Female,Stark,2,732
+Sansa Stark,Female,Stark,3,982
+Sansa Stark,Female,Stark,4,1127
+Sansa Stark,Female,Stark,5,743
+Sansa Stark,Female,Stark,6,1500
+Sansa Stark,Female,Stark,7,1671
+Sansa Stark,Female,Stark,8,828
+Arya Stark,Female,Stark,1,780
+Arya Stark,Female,Stark,2,830
+Arya Stark,Female,Stark,3,792
+Arya Stark,Female,Stark,4,768
+Arya Stark,Female,Stark,5,796
+Arya Stark,Female,Stark,6,465
+Arya Stark,Female,Stark,7,1187
+Arya Stark,Female,Stark,8,542
+Robb Stark,Male,Stark,1,871
+Robb Stark,Male,Stark,2,1639
+Robb Stark,Male,Stark,3,1316
+Robb Stark,Male,Stark,4,0
+Robb Stark,Male,Stark,5,0
+Robb Stark,Male,Stark,6,0
+Robb Stark,Male,Stark,7,0
+Robb Stark,Male,Stark,8,0
+Theon Greyjoy,Male,Greyjoy,1,732
+Theon Greyjoy,Male,Greyjoy,2,2546
+Theon Greyjoy,Male,Greyjoy,3,563
+Theon Greyjoy,Male,Greyjoy,4,307
+Theon Greyjoy,Male,Greyjoy,5,317
+Theon Greyjoy,Male,Greyjoy,6,522
+Theon Greyjoy,Male,Greyjoy,7,255
+Theon Greyjoy,Male,Greyjoy,8,79
+Bran Stark,Male,Stark,1,537
+Bran Stark,Male,Stark,2,527
+Bran Stark,Male,Stark,3,815
+Bran Stark,Male,Stark,4,195
+Bran Stark,Male,Stark,5,0
+Bran Stark,Male,Stark,6,330
+Bran Stark,Male,Stark,7,441
+Bran Stark,Male,Stark,8,342
+Joffrey Baratheon,Male,Baratheon,1,895
+Joffrey Baratheon,Male,Baratheon,2,1062
+Joffrey Baratheon,Male,Baratheon,3,898
+Joffrey Baratheon,Male,Baratheon,4,402
+Joffrey Baratheon,Male,Baratheon,5,0
+Joffrey Baratheon,Male,Baratheon,6,0
+Joffrey Baratheon,Male,Baratheon,7,0
+Joffrey Baratheon,Male,Baratheon,8,0
+Sandor Clegane,Male,Clegane,1,112
+Sandor Clegane,Male,Clegane,2,400
+Sandor Clegane,Male,Clegane,3,739
+Sandor Clegane,Male,Clegane,4,1378
+Sandor Clegane,Male,Clegane,5,0
+Sandor Clegane,Male,Clegane,6,340
+Sandor Clegane,Male,Clegane,7,543
+Sandor Clegane,Male,Clegane,8,294
+Tyrion Lannister,Male,Lannister,1,3600
+Tyrion Lannister,Male,Lannister,2,4634
+Tyrion Lannister,Male,Lannister,3,3046
+Tyrion Lannister,Male,Lannister,4,3374
+Tyrion Lannister,Male,Lannister,5,3254
+Tyrion Lannister,Male,Lannister,6,2400
+Tyrion Lannister,Male,Lannister,7,2726
+Tyrion Lannister,Male,Lannister,8,3119
+Petyr Baelish,Male,,1,1731
+Petyr Baelish,Male,,2,1266
+Petyr Baelish,Male,,3,633
+Petyr Baelish,Male,,4,1231
+Petyr Baelish,Male,,5,1628
+Petyr Baelish,Male,,6,519
+Petyr Baelish,Male,,7,724
+Petyr Baelish,Male,,8,0
+Davos Seaworth,Male,Seaworth,1,0
+Davos Seaworth,Male,Seaworth,2,1109
+Davos Seaworth,Male,Seaworth,3,1286
+Davos Seaworth,Male,Seaworth,4,698
+Davos Seaworth,Male,Seaworth,5,776
+Davos Seaworth,Male,Seaworth,6,1310
+Davos Seaworth,Male,Seaworth,7,935
+Davos Seaworth,Male,Seaworth,8,533
+Samwell Tarly,Male,Tarly,1,625
+Samwell Tarly,Male,Tarly,2,512
+Samwell Tarly,Male,Tarly,3,898
+Samwell Tarly,Male,Tarly,4,1085
+Samwell Tarly,Male,Tarly,5,1288
+Samwell Tarly,Male,Tarly,6,575
+Samwell Tarly,Male,Tarly,7,800
+Samwell Tarly,Male,Tarly,8,686
+Stannis Baratheon,Male,Baratheon,1,0
+Stannis Baratheon,Male,Baratheon,2,1214
+Stannis Baratheon,Male,Baratheon,3,633
+Stannis Baratheon,Male,Baratheon,4,345
+Stannis Baratheon,Male,Baratheon,5,1515
+Stannis Baratheon,Male,Baratheon,6,0
+Stannis Baratheon,Male,Baratheon,7,0
+Stannis Baratheon,Male,Baratheon,8,0
+Melisandre,Female,,1,0
+Melisandre,Female,,2,778
+Melisandre,Female,,3,962
+Melisandre,Female,,4,475
+Melisandre,Female,,5,715
+Melisandre,Female,,6,429
+Melisandre,Female,,7,219
+Melisandre,Female,,8,12
+Jeor Mormont,Male,Mormont,1,688
+Jeor Mormont,Male,Mormont,2,194
+Jeor Mormont,Male,Mormont,3,218
+Jeor Mormont,Male,Mormont,4,0
+Jeor Mormont,Male,Mormont,5,0
+Jeor Mormont,Male,Mormont,6,0
+Jeor Mormont,Male,Mormont,7,0
+Jeor Mormont,Male,Mormont,8,0
+Bronn,Male,,1,264
+Bronn,Male,,2,744
+Bronn,Male,,3,500
+Bronn,Male,,4,755
+Bronn,Male,,5,978
+Bronn,Male,,6,367
+Bronn,Male,,7,517
+Bronn,Male,,8,521
+Varys,Male,,1,1278
+Varys,Male,,2,1352
+Varys,Male,,3,1232
+Varys,Male,,4,464
+Varys,Male,,5,740
+Varys,Male,,6,820
+Varys,Male,,7,710
+Varys,Male,,8,579
+Shae,Female,,1,236
+Shae,Female,,2,603
+Shae,Female,,3,486
+Shae,Female,,4,503
+Shae,Female,,5,0
+Shae,Female,,6,0
+Shae,Female,,7,0
+Shae,Female,,8,0
+Margaery Tyrell,Female,Tyrell,1,5
+Margaery Tyrell,Female,Tyrell,2,387
+Margaery Tyrell,Female,Tyrell,3,1324
+Margaery Tyrell,Female,Tyrell,4,495
+Margaery Tyrell,Female,Tyrell,5,675
+Margaery Tyrell,Female,Tyrell,6,709
+Margaery Tyrell,Female,Tyrell,7,0
+Margaery Tyrell,Female,Tyrell,8,0
+Tywin Lannister,Male,Lannister,1,429
+Tywin Lannister,Male,Lannister,2,1280
+Tywin Lannister,Male,Lannister,3,1731
+Tywin Lannister,Male,Lannister,4,2159
+Tywin Lannister,Male,Lannister,5,0
+Tywin Lannister,Male,Lannister,6,0
+Tywin Lannister,Male,Lannister,7,0
+Tywin Lannister,Male,Lannister,8,0
+Talisa Maegyr,Female,,1,0
+Talisa Maegyr,Female,,2,907
+Talisa Maegyr,Female,,3,423
+Talisa Maegyr,Female,,4,0
+Talisa Maegyr,Female,,5,0
+Talisa Maegyr,Female,,6,0
+Talisa Maegyr,Female,,7,0
+Talisa Maegyr,Female,,8,0
+Ygritte,Female,,1,0
+Ygritte,Female,,2,942
+Ygritte,Female,,3,950
+Ygritte,Female,,4,276
+Ygritte,Female,,5,0
+Ygritte,Female,,6,0
+Ygritte,Female,,7,0
+Ygritte,Female,,8,0
+Gendry,Male,Baratheon,1,147
+Gendry,Male,Baratheon,2,378
+Gendry,Male,Baratheon,3,595
+Gendry,Male,Baratheon,4,0
+Gendry,Male,Baratheon,5,0
+Gendry,Male,Baratheon,6,0
+Gendry,Male,Baratheon,7,372
+Gendry,Male,Baratheon,8,410
+Tormund Giantsbane,Male,,1,0
+Tormund Giantsbane,Male,,2,0
+Tormund Giantsbane,Male,,3,354
+Tormund Giantsbane,Male,,4,299
+Tormund Giantsbane,Male,,5,342
+Tormund Giantsbane,Male,,6,360
+Tormund Giantsbane,Male,,7,401
+Tormund Giantsbane,Male,,8,422
+Brienne of Tarth,Female,Tarth,1,0
+Brienne of Tarth,Female,Tarth,2,500
+Brienne of Tarth,Female,Tarth,3,489
+Brienne of Tarth,Female,Tarth,4,868
+Brienne of Tarth,Female,Tarth,5,965
+Brienne of Tarth,Female,Tarth,6,590
+Brienne of Tarth,Female,Tarth,7,133
+Brienne of Tarth,Female,Tarth,8,421
+Ramsay Bolton,Male,Bolton,1,0
+Ramsay Bolton,Male,Bolton,2,0
+Ramsay Bolton,Male,Bolton,3,739
+Ramsay Bolton,Male,Bolton,4,658
+Ramsay Bolton,Male,Bolton,5,1094
+Ramsay Bolton,Male,Bolton,6,818
+Ramsay Bolton,Male,Bolton,7,0
+Ramsay Bolton,Male,Bolton,8,0
+Gilly,Female,,1,0
+Gilly,Female,,2,63
+Gilly,Female,,3,317
+Gilly,Female,,4,264
+Gilly,Female,,5,328
+Gilly,Female,,6,380
+Gilly,Female,,7,111
+Gilly,Female,,8,67
+Daario Naharis,Male,,1,0
+Daario Naharis,Male,,2,0
+Daario Naharis,Male,,3,392
+Daario Naharis,Male,,4,297
+Daario Naharis,Male,,5,977
+Daario Naharis,Male,,6,553
+Daario Naharis,Male,,7,0
+Daario Naharis,Male,,8,0
+Missandei,Female,,1,0
+Missandei,Female,,2,0
+Missandei,Female,,3,729
+Missandei,Female,,4,370
+Missandei,Female,,5,217
+Missandei,Female,,6,264
+Missandei,Female,,7,322
+Missandei,Female,,8,34
+Ellaria Sand,Female,,1,0
+Ellaria Sand,Female,,2,0
+Ellaria Sand,Female,,3,0
+Ellaria Sand,Female,,4,122
+Ellaria Sand,Female,,5,311
+Ellaria Sand,Female,,6,136
+Ellaria Sand,Female,,7,142
+Ellaria Sand,Female,,8,0
+Tommen Baratheon,Male,Baratheon,1,0
+Tommen Baratheon,Male,Baratheon,2,26
+Tommen Baratheon,Male,Baratheon,3,0
+Tommen Baratheon,Male,Baratheon,4,207
+Tommen Baratheon,Male,Baratheon,5,405
+Tommen Baratheon,Male,Baratheon,6,756
+Tommen Baratheon,Male,Baratheon,7,0
+Tommen Baratheon,Male,Baratheon,8,0
+Jaqen H'ghar,Male,,1,0
+Jaqen H'ghar,Male,,2,611
+Jaqen H'ghar,Male,,3,0
+Jaqen H'ghar,Male,,4,0
+Jaqen H'ghar,Male,,5,539
+Jaqen H'ghar,Male,,6,315
+Jaqen H'ghar,Male,,7,0
+Jaqen H'ghar,Male,,8,0
+Roose Bolton,Male,Bolton,1,0
+Roose Bolton,Male,Bolton,2,293
+Roose Bolton,Male,Bolton,3,351
+Roose Bolton,Male,Bolton,4,292
+Roose Bolton,Male,Bolton,5,725
+Roose Bolton,Male,Bolton,6,238
+Roose Bolton,Male,Bolton,7,0
+Roose Bolton,Male,Bolton,8,0
+The High Sparrow,Male,,1,0
+The High Sparrow,Male,,2,0
+The High Sparrow,Male,,3,0
+The High Sparrow,Male,,4,0
+The High Sparrow,Male,,5,1189
+The High Sparrow,Male,,6,1515
+The High Sparrow,Male,,7,0
+The High Sparrow,Male,,8,0
+Grey Worm,Male,,1,0
+Grey Worm,Male,,2,0
+Grey Worm,Male,,3,67
+Grey Worm,Male,,4,289
+Grey Worm,Male,,5,135
+Grey Worm,Male,,6,347
+Grey Worm,Male,,7,153
+Grey Worm,Male,,8,242
+Robin Arryn,Male,Arryn,1,56
+Robin Arryn,Male,Arryn,2,0
+Robin Arryn,Male,Arryn,3,0
+Robin Arryn,Male,Arryn,4,255
+Robin Arryn,Male,Arryn,5,0
+Robin Arryn,Male,Arryn,6,26
+Robin Arryn,Male,Arryn,7,0
+Robin Arryn,Male,Arryn,8,1
+Yohn Royce,Male,,1,71
+Yohn Royce,Male,,2,0
+Yohn Royce,Male,,3,0
+Yohn Royce,Male,,4,0
+Yohn Royce,Male,,5,59
+Yohn Royce,Male,,6,90
+Yohn Royce,Male,,7,95
+Yohn Royce,Male,,8,24
+Anya Waynwood,Female,,1,0
+Anya Waynwood,Female,,2,0
+Anya Waynwood,Female,,3,0
+Anya Waynwood,Female,,4,0
+Anya Waynwood,Female,,5,0
+Anya Waynwood,Female,,6,0
+Anya Waynwood,Female,,7,0
+Anya Waynwood,Female,,8,0
+Lysa Arryn,Female,Arryn,1,417
+Lysa Arryn,Female,Arryn,2,0
+Lysa Arryn,Female,Arryn,3,0
+Lysa Arryn,Female,Arryn,4,835
+Lysa Arryn,Female,Arryn,5,0
+Lysa Arryn,Female,Arryn,6,0
+Lysa Arryn,Female,Arryn,7,0
+Lysa Arryn,Female,Arryn,8,0
+Myrcella Baratheon,Female,Baratheon,1,5
+Myrcella Baratheon,Female,Baratheon,2,36
+Myrcella Baratheon,Female,Baratheon,3,0
+Myrcella Baratheon,Female,Baratheon,4,0
+Myrcella Baratheon,Female,Baratheon,5,228
+Myrcella Baratheon,Female,Baratheon,6,0
+Myrcella Baratheon,Female,Baratheon,7,0
+Myrcella Baratheon,Female,Baratheon,8,0
+Selyse Florent,Female,,1,0
+Selyse Florent,Female,,2,0
+Selyse Florent,Female,,3,176
+Selyse Florent,Female,,4,292
+Selyse Florent,Female,,5,136
+Selyse Florent,Female,,6,0
+Selyse Florent,Female,,7,0
+Selyse Florent,Female,,8,0
+Shireen Baratheon,Female,Baratheon,1,0
+Shireen Baratheon,Female,Baratheon,2,0
+Shireen Baratheon,Female,Baratheon,3,419
+Shireen Baratheon,Female,Baratheon,4,146
+Shireen Baratheon,Female,Baratheon,5,491
+Shireen Baratheon,Female,Baratheon,6,0
+Shireen Baratheon,Female,Baratheon,7,0
+Shireen Baratheon,Female,Baratheon,8,0
+Renly Baratheon,Male,Baratheon,1,581
+Renly Baratheon,Male,Baratheon,2,684
+Renly Baratheon,Male,Baratheon,3,0
+Renly Baratheon,Male,Baratheon,4,0
+Renly Baratheon,Male,Baratheon,5,0
+Renly Baratheon,Male,Baratheon,6,0
+Renly Baratheon,Male,Baratheon,7,0
+Renly Baratheon,Male,Baratheon,8,0
+Salladhor Saan,Male,,1,0
+Salladhor Saan,Male,,2,242
+Salladhor Saan,Male,,3,262
+Salladhor Saan,Male,,4,0
+Salladhor Saan,Male,,5,0
+Salladhor Saan,Male,,6,0
+Salladhor Saan,Male,,7,0
+Salladhor Saan,Male,,8,0
+Matthos Seaworth,Male,,1,0
+Matthos Seaworth,Male,,2,439
+Matthos Seaworth,Male,,3,0
+Matthos Seaworth,Male,,4,0
+Matthos Seaworth,Male,,5,0
+Matthos Seaworth,Male,,6,0
+Matthos Seaworth,Male,,7,0
+Matthos Seaworth,Male,,8,0
+Maester Cressen,Female,,1,0
+Maester Cressen,Female,,2,147
+Maester Cressen,Female,,3,0
+Maester Cressen,Female,,4,0
+Maester Cressen,Female,,5,0
+Maester Cressen,Female,,6,49
+Maester Cressen,Female,,7,0
+Maester Cressen,Female,,8,0
+Walda Bolton,Female,Bolton,1,0
+Walda Bolton,Female,Bolton,2,0
+Walda Bolton,Female,Bolton,3,0
+Walda Bolton,Female,Bolton,4,1
+Walda Bolton,Female,Bolton,5,26
+Walda Bolton,Female,Bolton,6,0
+Walda Bolton,Female,Bolton,7,0
+Walda Bolton,Female,Bolton,8,0
+Harald Karstark,Male,,1,0
+Harald Karstark,Male,,2,0
+Harald Karstark,Male,,3,0
+Harald Karstark,Male,,4,0
+Harald Karstark,Male,,5,0
+Harald Karstark,Male,,6,2
+Harald Karstark,Male,,7,0
+Harald Karstark,Male,,8,0
+Jon Umber,Male,,1,0
+Jon Umber,Male,,2,0
+Jon Umber,Male,,3,0
+Jon Umber,Male,,4,0
+Jon Umber,Male,,5,0
+Jon Umber,Male,,6,0
+Jon Umber,Male,,7,0
+Jon Umber,Male,,8,18
+Myranda,Female,,1,0
+Myranda,Female,,2,0
+Myranda,Female,,3,83
+Myranda,Female,,4,31
+Myranda,Female,,5,408
+Myranda,Female,,6,0
+Myranda,Female,,7,0
+Myranda,Female,,8,0
+Locke,Male,,1,0
+Locke,Male,,2,0
+Locke,Male,,3,478
+Locke,Male,,4,258
+Locke,Male,,5,0
+Locke,Male,,6,0
+Locke,Male,,7,0
+Locke,Male,,8,0
+Walder Frey,Female,Frey,1,260
+Walder Frey,Female,Frey,2,0
+Walder Frey,Female,Frey,3,666
+Walder Frey,Female,Frey,4,0
+Walder Frey,Female,Frey,5,0
+Walder Frey,Female,Frey,6,489
+Walder Frey,Female,Frey,7,206
+Walder Frey,Female,Frey,8,0
+Lothar Frey,Male,Frey,1,0
+Lothar Frey,Male,Frey,2,0
+Lothar Frey,Male,Frey,3,83
+Lothar Frey,Male,Frey,4,0
+Lothar Frey,Male,Frey,5,0
+Lothar Frey,Male,Frey,6,67
+Lothar Frey,Male,Frey,7,0
+Lothar Frey,Male,Frey,8,0
+Black Walder Rivers,Female,,1,0
+Black Walder Rivers,Female,,2,0
+Black Walder Rivers,Female,,3,63
+Black Walder Rivers,Female,,4,0
+Black Walder Rivers,Female,,5,0
+Black Walder Rivers,Female,,6,90
+Black Walder Rivers,Female,,7,0
+Black Walder Rivers,Female,,8,0
+Yara Greyjoy,Female,Greyjoy,1,0
+Yara Greyjoy,Female,Greyjoy,2,562
+Yara Greyjoy,Female,Greyjoy,3,76
+Yara Greyjoy,Female,Greyjoy,4,218
+Yara Greyjoy,Female,Greyjoy,5,0
+Yara Greyjoy,Female,Greyjoy,6,754
+Yara Greyjoy,Female,Greyjoy,7,95
+Yara Greyjoy,Female,Greyjoy,8,134
+Euron Greyjoy,Male,Greyjoy,1,0
+Euron Greyjoy,Male,Greyjoy,2,0
+Euron Greyjoy,Male,Greyjoy,3,0
+Euron Greyjoy,Male,Greyjoy,4,0
+Euron Greyjoy,Male,Greyjoy,5,0
+Euron Greyjoy,Male,Greyjoy,6,423
+Euron Greyjoy,Male,Greyjoy,7,629
+Euron Greyjoy,Male,Greyjoy,8,175
+Aeron Greyjoy,Male,Greyjoy,1,0
+Aeron Greyjoy,Male,Greyjoy,2,0
+Aeron Greyjoy,Male,Greyjoy,3,0
+Aeron Greyjoy,Male,Greyjoy,4,0
+Aeron Greyjoy,Male,Greyjoy,5,0
+Aeron Greyjoy,Male,Greyjoy,6,161
+Aeron Greyjoy,Male,Greyjoy,7,0
+Aeron Greyjoy,Male,Greyjoy,8,0
+Balon Greyjoy,Female,Greyjoy,1,0
+Balon Greyjoy,Female,Greyjoy,2,476
+Balon Greyjoy,Female,Greyjoy,3,174
+Balon Greyjoy,Female,Greyjoy,4,0
+Balon Greyjoy,Female,Greyjoy,5,0
+Balon Greyjoy,Female,Greyjoy,6,167
+Balon Greyjoy,Female,Greyjoy,7,0
+Balon Greyjoy,Female,Greyjoy,8,0
+Dagmer Cleftjaw,Male,,1,0
+Dagmer Cleftjaw,Male,,2,156
+Dagmer Cleftjaw,Male,,3,0
+Dagmer Cleftjaw,Male,,4,0
+Dagmer Cleftjaw,Male,,5,0
+Dagmer Cleftjaw,Male,,6,0
+Dagmer Cleftjaw,Male,,7,0
+Dagmer Cleftjaw,Male,,8,0
+Black Lorren,Male,,1,0
+Black Lorren,Male,,2,129
+Black Lorren,Male,,3,0
+Black Lorren,Male,,4,0
+Black Lorren,Male,,5,0
+Black Lorren,Male,,6,0
+Black Lorren,Male,,7,0
+Black Lorren,Male,,8,0
+Gregor Clegane,Female,,1,0
+Gregor Clegane,Female,,2,0
+Gregor Clegane,Female,,3,0
+Gregor Clegane,Female,,4,0
+Gregor Clegane,Female,,5,0
+Gregor Clegane,Female,,6,0
+Gregor Clegane,Female,,7,0
+Gregor Clegane,Female,,8,0
+Kevan Lannister,Male,Lannister,1,100
+Kevan Lannister,Male,Lannister,2,81
+Kevan Lannister,Male,Lannister,3,0
+Kevan Lannister,Male,Lannister,4,0
+Kevan Lannister,Male,Lannister,5,163
+Kevan Lannister,Male,Lannister,6,121
+Kevan Lannister,Male,Lannister,7,0
+Kevan Lannister,Male,Lannister,8,0
+Lancel Lannister,Male,Lannister,1,59
+Lancel Lannister,Male,Lannister,2,418
+Lancel Lannister,Male,Lannister,3,0
+Lancel Lannister,Male,Lannister,4,0
+Lancel Lannister,Male,Lannister,5,179
+Lancel Lannister,Male,Lannister,6,92
+Lancel Lannister,Male,Lannister,7,0
+Lancel Lannister,Male,Lannister,8,0
+Polliver,Male,,1,0
+Polliver,Male,,2,71
+Polliver,Male,,3,0
+Polliver,Male,,4,313
+Polliver,Male,,5,0
+Polliver,Male,,6,0
+Polliver,Male,,7,0
+Polliver,Male,,8,0
+Alton Lannister,Male,Lannister,1,0
+Alton Lannister,Male,Lannister,2,348
+Alton Lannister,Male,Lannister,3,0
+Alton Lannister,Male,Lannister,4,0
+Alton Lannister,Male,Lannister,5,0
+Alton Lannister,Male,Lannister,6,0
+Alton Lannister,Male,Lannister,7,0
+Alton Lannister,Male,Lannister,8,0
+Amory Lorch,Female,,1,0
+Amory Lorch,Female,,2,106
+Amory Lorch,Female,,3,0
+Amory Lorch,Female,,4,0
+Amory Lorch,Female,,5,0
+Amory Lorch,Female,,6,0
+Amory Lorch,Female,,7,0
+Amory Lorch,Female,,8,0
+Lord Leo Lefford,Male,,1,21
+Lord Leo Lefford,Male,,2,0
+Lord Leo Lefford,Male,,3,0
+Lord Leo Lefford,Male,,4,0
+Lord Leo Lefford,Male,,5,0
+Lord Leo Lefford,Male,,6,0
+Lord Leo Lefford,Male,,7,0
+Lord Leo Lefford,Male,,8,0
+Tyene Sand,Female,,1,0
+Tyene Sand,Female,,2,0
+Tyene Sand,Female,,3,0
+Tyene Sand,Female,,4,0
+Tyene Sand,Female,,5,186
+Tyene Sand,Female,,6,0
+Tyene Sand,Female,,7,31
+Tyene Sand,Female,,8,0
+Nymeria Sand,Female,,1,0
+Nymeria Sand,Female,,2,0
+Nymeria Sand,Female,,3,0
+Nymeria Sand,Female,,4,0
+Nymeria Sand,Female,,5,72
+Nymeria Sand,Female,,6,29
+Nymeria Sand,Female,,7,18
+Nymeria Sand,Female,,8,0
+Obara Sand,Female,,1,0
+Obara Sand,Female,,2,0
+Obara Sand,Female,,3,0
+Obara Sand,Female,,4,0
+Obara Sand,Female,,5,136
+Obara Sand,Female,,6,33
+Obara Sand,Female,,7,22
+Obara Sand,Female,,8,0
+Trystane Martell,Male,Martell,1,0
+Trystane Martell,Male,Martell,2,0
+Trystane Martell,Male,Martell,3,0
+Trystane Martell,Male,Martell,4,0
+Trystane Martell,Male,Martell,5,93
+Trystane Martell,Male,Martell,6,15
+Trystane Martell,Male,Martell,7,0
+Trystane Martell,Male,Martell,8,0
+Doran Martell,Male,Martell,1,0
+Doran Martell,Male,Martell,2,0
+Doran Martell,Male,Martell,3,0
+Doran Martell,Male,Martell,4,0
+Doran Martell,Male,Martell,5,438
+Doran Martell,Male,Martell,6,84
+Doran Martell,Male,Martell,7,0
+Doran Martell,Male,Martell,8,0
+Areo Hotah,Male,,1,0
+Areo Hotah,Male,,2,0
+Areo Hotah,Male,,3,0
+Areo Hotah,Male,,4,0
+Areo Hotah,Male,,5,47
+Areo Hotah,Male,,6,0
+Areo Hotah,Male,,7,0
+Areo Hotah,Male,,8,0
+Oberyn Martell,Female,Martell,1,0
+Oberyn Martell,Female,Martell,2,0
+Oberyn Martell,Female,Martell,3,0
+Oberyn Martell,Female,Martell,4,1909
+Oberyn Martell,Female,Martell,5,0
+Oberyn Martell,Female,Martell,6,0
+Oberyn Martell,Female,Martell,7,0
+Oberyn Martell,Female,Martell,8,0
+Robett Glover,Male,,1,0
+Robett Glover,Male,,2,0
+Robett Glover,Male,,3,0
+Robett Glover,Male,,4,0
+Robett Glover,Male,,5,0
+Robett Glover,Male,,6,265
+Robett Glover,Male,,7,71
+Robett Glover,Male,,8,0
+Meera Reed,Female,,1,0
+Meera Reed,Female,,2,0
+Meera Reed,Female,,3,250
+Meera Reed,Female,,4,170
+Meera Reed,Female,,5,0
+Meera Reed,Female,,6,210
+Meera Reed,Female,,7,83
+Meera Reed,Female,,8,0
+Lyanna Mormont,Female,Mormont,1,0
+Lyanna Mormont,Female,Mormont,2,0
+Lyanna Mormont,Female,Mormont,3,0
+Lyanna Mormont,Female,Mormont,4,0
+Lyanna Mormont,Female,Mormont,5,0
+Lyanna Mormont,Female,Mormont,6,358
+Lyanna Mormont,Female,Mormont,7,100
+Lyanna Mormont,Female,Mormont,8,84
+Maester Wolkan,Male,,1,0
+Maester Wolkan,Male,,2,0
+Maester Wolkan,Male,,3,0
+Maester Wolkan,Male,,4,0
+Maester Wolkan,Male,,5,0
+Maester Wolkan,Male,,6,47
+Maester Wolkan,Male,,7,58
+Maester Wolkan,Male,,8,31
+Lyanna Stark,Female,Stark,1,0
+Lyanna Stark,Female,Stark,2,0
+Lyanna Stark,Female,Stark,3,0
+Lyanna Stark,Female,Stark,4,0
+Lyanna Stark,Female,Stark,5,0
+Lyanna Stark,Female,Stark,6,0
+Lyanna Stark,Female,Stark,7,0
+Lyanna Stark,Female,Stark,8,0
+Rickon Stark,Male,Stark,1,34
+Rickon Stark,Male,Stark,2,29
+Rickon Stark,Male,Stark,3,72
+Rickon Stark,Male,Stark,4,0
+Rickon Stark,Male,Stark,5,0
+Rickon Stark,Male,Stark,6,0
+Rickon Stark,Male,Stark,7,0
+Rickon Stark,Male,Stark,8,0
+Hodor,Male,,1,1
+Hodor,Male,,2,3
+Hodor,Male,,3,14
+Hodor,Male,,4,32
+Hodor,Male,,5,0
+Hodor,Male,,6,23
+Hodor,Male,,7,0
+Hodor,Male,,8,0
+Osha,Female,,1,261
+Osha,Female,,2,507
+Osha,Female,,3,837
+Osha,Female,,4,0
+Osha,Female,,5,0
+Osha,Female,,6,82
+Osha,Female,,7,0
+Osha,Female,,8,0
+Jojen Reed,Male,,1,0
+Jojen Reed,Male,,2,0
+Jojen Reed,Male,,3,439
+Jojen Reed,Male,,4,223
+Jojen Reed,Male,,5,0
+Jojen Reed,Male,,6,0
+Jojen Reed,Male,,7,0
+Jojen Reed,Male,,8,0
+Rickard Karstark,Male,,1,30
+Rickard Karstark,Male,,2,188
+Rickard Karstark,Male,,3,177
+Rickard Karstark,Male,,4,0
+Rickard Karstark,Male,,5,0
+Rickard Karstark,Male,,6,7
+Rickard Karstark,Male,,7,0
+Rickard Karstark,Male,,8,0
+ Maester Luwin,Male,,1,426
+ Maester Luwin,Male,,2,658
+ Maester Luwin,Male,,3,0
+ Maester Luwin,Male,,4,0
+ Maester Luwin,Male,,5,0
+ Maester Luwin,Male,,6,0
+ Maester Luwin,Male,,7,0
+ Maester Luwin,Male,,8,0
+Rodrik Cassel,Male,,1,62
+Rodrik Cassel,Male,,2,149
+Rodrik Cassel,Male,,3,0
+Rodrik Cassel,Male,,4,0
+Rodrik Cassel,Male,,5,0
+Rodrik Cassel,Male,,6,0
+Rodrik Cassel,Male,,7,0
+Rodrik Cassel,Male,,8,0
+Jory Cassel,Male,,1,237
+Jory Cassel,Male,,2,0
+Jory Cassel,Male,,3,0
+Jory Cassel,Male,,4,0
+Jory Cassel,Male,,5,0
+Jory Cassel,Male,,6,0
+Jory Cassel,Male,,7,0
+Jory Cassel,Male,,8,0
+Septa Mordane,Female,,1,303
+Septa Mordane,Female,,2,0
+Septa Mordane,Female,,3,0
+Septa Mordane,Female,,4,0
+Septa Mordane,Female,,5,16
+Septa Mordane,Female,,6,0
+Septa Mordane,Female,,7,0
+Septa Mordane,Female,,8,0
+Old Nan,Female,,1,204
+Old Nan,Female,,2,0
+Old Nan,Female,,3,0
+Old Nan,Female,,4,0
+Old Nan,Female,,5,0
+Old Nan,Female,,6,0
+Old Nan,Female,,7,0
+Old Nan,Female,,8,0
+Jon Umber,Male,,1,0
+Jon Umber,Male,,2,0
+Jon Umber,Male,,3,0
+Jon Umber,Male,,4,0
+Jon Umber,Male,,5,0
+Jon Umber,Male,,6,0
+Jon Umber,Male,,7,0
+Jon Umber,Male,,8,0
+Barristan Selmy,Female,,1,217
+Barristan Selmy,Female,,2,0
+Barristan Selmy,Female,,3,478
+Barristan Selmy,Female,,4,154
+Barristan Selmy,Female,,5,365
+Barristan Selmy,Female,,6,0
+Barristan Selmy,Female,,7,0
+Barristan Selmy,Female,,8,0
+Hizdahr Zo Loraq,Female,,1,0
+Hizdahr Zo Loraq,Female,,2,0
+Hizdahr Zo Loraq,Female,,3,0
+Hizdahr Zo Loraq,Female,,4,222
+Hizdahr Zo Loraq,Female,,5,614
+Hizdahr Zo Loraq,Female,,6,0
+Hizdahr Zo Loraq,Female,,7,0
+Hizdahr Zo Loraq,Female,,8,0
+Mossador,Male,,1,0
+Mossador,Male,,2,0
+Mossador,Male,,3,0
+Mossador,Male,,4,41
+Mossador,Male,,5,237
+Mossador,Male,,6,0
+Mossador,Male,,7,0
+Mossador,Male,,8,0
+Kovarro,Male,,1,0
+Kovarro,Male,,2,65
+Kovarro,Male,,3,0
+Kovarro,Male,,4,0
+Kovarro,Male,,5,0
+Kovarro,Male,,6,0
+Kovarro,Male,,7,0
+Kovarro,Male,,8,0
+Doreah,Female,,1,443
+Doreah,Female,,2,75
+Doreah,Female,,3,0
+Doreah,Female,,4,0
+Doreah,Female,,5,0
+Doreah,Female,,6,0
+Doreah,Female,,7,0
+Doreah,Female,,8,0
+Irri,Female,,1,121
+Irri,Female,,2,90
+Irri,Female,,3,0
+Irri,Female,,4,0
+Irri,Female,,5,0
+Irri,Female,,6,0
+Irri,Female,,7,0
+Irri,Female,,8,0
+Rakharo,Male,,1,180
+Rakharo,Male,,2,24
+Rakharo,Male,,3,0
+Rakharo,Male,,4,0
+Rakharo,Male,,5,0
+Rakharo,Male,,6,0
+Rakharo,Male,,7,0
+Rakharo,Male,,8,0
+Rhaegar Targaryen,Male,Targaryen,1,0
+Rhaegar Targaryen,Male,Targaryen,2,0
+Rhaegar Targaryen,Male,Targaryen,3,0
+Rhaegar Targaryen,Male,Targaryen,4,0
+Rhaegar Targaryen,Male,Targaryen,5,0
+Rhaegar Targaryen,Male,Targaryen,6,0
+Rhaegar Targaryen,Male,Targaryen,7,23
+Rhaegar Targaryen,Male,Targaryen,8,0
+Edmure Tully,Male,Tully,1,0
+Edmure Tully,Male,Tully,2,0
+Edmure Tully,Male,Tully,3,323
+Edmure Tully,Male,Tully,4,0
+Edmure Tully,Male,Tully,5,0
+Edmure Tully,Male,Tully,6,245
+Edmure Tully,Male,Tully,7,0
+Edmure Tully,Male,Tully,8,79
+Brynden Tully,Male,Tully,1,0
+Brynden Tully,Male,Tully,2,0
+Brynden Tully,Male,Tully,3,326
+Brynden Tully,Male,Tully,4,0
+Brynden Tully,Male,Tully,5,0
+Brynden Tully,Male,Tully,6,438
+Brynden Tully,Male,Tully,7,0
+Brynden Tully,Male,Tully,8,0
+Roslin Frey,Female,Frey,1,0
+Roslin Frey,Female,Frey,2,0
+Roslin Frey,Female,Frey,3,10
+Roslin Frey,Female,Frey,4,0
+Roslin Frey,Female,Frey,5,0
+Roslin Frey,Female,Frey,6,0
+Roslin Frey,Female,Frey,7,0
+Roslin Frey,Female,Frey,8,0
+Olenna Tyrell,Female,Tyrell,1,0
+Olenna Tyrell,Female,Tyrell,2,0
+Olenna Tyrell,Female,Tyrell,3,1516
+Olenna Tyrell,Female,Tyrell,4,841
+Olenna Tyrell,Female,Tyrell,5,530
+Olenna Tyrell,Female,Tyrell,6,392
+Olenna Tyrell,Female,Tyrell,7,492
+Olenna Tyrell,Female,Tyrell,8,0
+Mace Tyrell,Female,Tyrell,1,0
+Mace Tyrell,Female,Tyrell,2,0
+Mace Tyrell,Female,Tyrell,3,0
+Mace Tyrell,Female,Tyrell,4,110
+Mace Tyrell,Female,Tyrell,5,326
+Mace Tyrell,Female,Tyrell,6,47
+Mace Tyrell,Female,Tyrell,7,0
+Mace Tyrell,Female,Tyrell,8,0
+Loras Tyrell,Female,Tyrell,1,288
+Loras Tyrell,Female,Tyrell,2,193
+Loras Tyrell,Female,Tyrell,3,203
+Loras Tyrell,Female,Tyrell,4,18
+Loras Tyrell,Female,Tyrell,5,230
+Loras Tyrell,Female,Tyrell,6,168
+Loras Tyrell,Female,Tyrell,7,0
+Loras Tyrell,Female,Tyrell,8,0
+Randyll Tarly,Male,Tarly,1,0
+Randyll Tarly,Male,Tarly,2,0
+Randyll Tarly,Male,Tarly,3,0
+Randyll Tarly,Male,Tarly,4,0
+Randyll Tarly,Male,Tarly,5,0
+Randyll Tarly,Male,Tarly,6,309
+Randyll Tarly,Male,Tarly,7,291
+Randyll Tarly,Male,Tarly,8,0
+Melessa Tarly,Female,Tarly,1,0
+Melessa Tarly,Female,Tarly,2,0
+Melessa Tarly,Female,Tarly,3,0
+Melessa Tarly,Female,Tarly,4,0
+Melessa Tarly,Female,Tarly,5,0
+Melessa Tarly,Female,Tarly,6,110
+Melessa Tarly,Female,Tarly,7,0
+Melessa Tarly,Female,Tarly,8,0
+Talla Tarly,Female,Tarly,1,0
+Talla Tarly,Female,Tarly,2,0
+Talla Tarly,Female,Tarly,3,0
+Talla Tarly,Female,Tarly,4,0
+Talla Tarly,Female,Tarly,5,0
+Talla Tarly,Female,Tarly,6,80
+Talla Tarly,Female,Tarly,7,0
+Talla Tarly,Female,Tarly,8,0
+Dickon Tarly,Male,Tarly,1,0
+Dickon Tarly,Male,Tarly,2,0
+Dickon Tarly,Male,Tarly,3,0
+Dickon Tarly,Male,Tarly,4,0
+Dickon Tarly,Male,Tarly,5,0
+Dickon Tarly,Male,Tarly,6,46
+Dickon Tarly,Male,Tarly,7,68
+Dickon Tarly,Male,Tarly,8,0

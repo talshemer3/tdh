@@ -8,8 +8,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
-from objects import Line
-from objects import Character
+from scripts.objects import Line
+from scripts.objects import Character
 
 characters = None
 
@@ -116,6 +116,19 @@ def create_csv():
             writer.writerow(row)
 
 
+def create_main_csv():
+    with open('character_list_results.json', 'r') as file:
+        characters_tmp = json.load(file)
+    first_row = ['Name', 'Gender', 'House', 'Season', 'Total']
+    with open('csvs/maincsv.csv', 'w') as csvFile:
+        writer = csv.writer(csvFile, lineterminator='\n')
+        writer.writerow(first_row)
+        for character in characters_tmp:
+            for key, season_counter in character["season_counter"].items():
+                row = [character["name"], character["gender"], character["house"], key, season_counter]
+                writer.writerow(row)
+
+
 def create_csv_main_role_general():
     global characters
     first_row = ['Name', 'Gender', 'House', 'Words']
@@ -144,12 +157,21 @@ def create_csv_per_character():
     first_row = ['Season', 'Words']
     for c in characters:
         file_name = c.name + '.csv'
-        with open(f'csvs/characters/{file_name}', 'w') as csvFile:
+        with open(f'csvs/characters/{file_name}.csv', 'w') as csvFile:
             writer = csv.writer(csvFile, lineterminator='\n')
             writer.writerow(first_row)
             for se in range(1, 9):
                 row = [se, c.season_counter[str(se)]]
                 writer.writerow(row)
+
+
+def season_episodes_csv():
+    arr = [10, 10, 10, 11, 11, 10, 7, 4]
+    with open(f'csvs/episodes.csv', 'w') as csvFile:
+        writer = csv.writer(csvFile, lineterminator='\n')
+        writer.writerow(["season", "#episodes"])
+        for i in range(1, 9):
+            writer.writerow([i, arr[i - 1]])
 
 
 def export():
@@ -168,8 +190,8 @@ def dominant_house():
         for c in characters_tmp:
             for line in itertools.chain.from_iterable(c["lines"].values()):
                 for house in houses:
-                    dom_house[house] += line["text"].lower().count(house.lower())
-    with open(f'csvs/houses', 'w') as csvFile:
+                    dom_house[house] += line["text"].count(house)
+    with open(f'csvs/houses.csv', 'w') as csvFile:
         writer = csv.writer(csvFile, lineterminator='\n')
         writer.writerow(["house", "apearances"])
         for house in dom_house:
@@ -178,14 +200,16 @@ def dominant_house():
 
 if __name__ == '__main__':
     # open_script()
-    create_characters_arr()
-    parser_helper()
-    print(not_important)
-    count_words_per_season()
-    export()
-    create_csv()
-    create_csv_main_role_general()
-    create_csv_per_season()
-    create_csv_per_character()
+    # create_characters_arr()
+    # parser_helper()
+    # print(not_important)
+    # count_words_per_season()
+    # export()
+    # create_csv()
+    # create_csv_main_role_general()
+    # create_csv_per_season()
+    # create_csv_per_character()
     dominant_house()
+    # create_main_csv()
+    # season_episodes_csv()
     print("done")

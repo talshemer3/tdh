@@ -2,6 +2,9 @@ import itertools
 from wordcloud import WordCloud
 import gensim
 import json
+
+from nltk.corpus import stopwords
+
 from textblob import TextBlob
 from gensim.utils import simple_preprocess
 from gensim.parsing.preprocessing import STOPWORDS
@@ -13,8 +16,11 @@ import nltk
 
 # nltk.download('brown')
 # nltk.download('averaged_perceptron_tagger')
+# nltk.download('stopwords')
 # nltk.download('punkt')
 
+# stopwords = stopwords.words('english').append(['ll', 're', 'come', 'com', 'tell', 'think'])
+# print(stopwords)
 
 def lemmatize_stemming(text):
     stemmer = SnowballStemmer("english")
@@ -55,7 +61,8 @@ def modeling():
 
 
 def word_cloud():
-    wordcloud = WordCloud(background_color="white", max_words=200, contour_width=6)
+    wordcloud = WordCloud(background_color="white", width=900, height=400, max_words=400, contour_width=6,
+                          stopwords={"one", "don", "thing", "come"})
     with open('character_list_results.json', 'r') as f:
         characters = json.load(f)
         lines = list(
@@ -65,9 +72,9 @@ def word_cloud():
                        for
                        line in lines]
     wordcloud.generate(','.join(list(itertools.chain.from_iterable(processed_lines))))
-    wordcloud.to_image().save('img.png')
+    wordcloud.to_image().save('img3.png')
 
 
 if __name__ == '__main__':
     word_cloud()
-    # modeling()
+    modeling()

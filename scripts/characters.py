@@ -2,7 +2,7 @@ import json
 import re
 import requests
 import wikipediaapi
-from objects import Character
+from scripts.objects import Character
 
 houses = ['Tarly', 'Martell', 'Frey', 'Bolton', 'Targaryen', 'Stark', 'Lannister', 'Greyjoy', 'Arryn', 'Baratheon',
           'Tully', 'Tyrell', 'Mormont']
